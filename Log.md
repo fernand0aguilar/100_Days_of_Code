@@ -12,3 +12,14 @@
 
 
 ***
+### Day 2:
+04-08-2019 , 17:42 
+
+**Today's Progress:** Created Selfie Mood Tracker WebApp
+
+**Thoughts:** Today I have made a nodejs webapp using express to track daily selfies with geolocation
+
+**Link to work:** [Selfie Geolocation](https://github.com/fernand0aguilar/Working-with-Data-and-APIs/tree/master/Selfie_Geolocation)
+
+
+***
