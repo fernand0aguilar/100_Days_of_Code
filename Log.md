@@ -23,3 +23,14 @@
 
 
 ***
+### Day 3:
+05-08-2019 , 12:56 
+
+**Today's Progress:** Evolving Mood Tracker WebApp
+
+**Thoughts:** Created the page to show logs on the mood tracker app
+
+**Link to work:** [commit 942ac1967b0c71242beb727446797f7309dee8d6](Data-and-APIs/commit/942ac1967b0c71242beb727446797f7309dee8d6)
+
+
+***
