@@ -34,3 +34,14 @@
 
 
 ***
+### Day 4:
+06-08-2019 , 19:39 
+
+**Today's Progress:** Updated weather daily
+
+**Thoughts:** Updated weather daily with darksky api to measure air quality data and also refactoring server with async functions
+
+**Link to work:** [commit 7ececaeb9ed9c8f7c7af16741fdfc580da9b88d9](https://github.com/fernand0aguilar/Working-with-Data-and-APIs/commit/7ececaeb9ed9c8f7c7af16741fdfc580da9b88d9)
+
+
+***
