@@ -45,3 +45,14 @@
 
 
 ***
+### Day 5:
+07-08-2019 , 14:27 
+
+**Today's Progress:** Add air quality data on weather here app
+
+**Thoughts:** Making progress on the working with data and apis course
+
+**Link to work:** [Working with data and apis](https://github.com/fernand0aguilar/Working-with-Data-and-APIs)
+
+
+***
