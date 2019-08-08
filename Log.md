@@ -56,3 +56,14 @@
 
 
 ***
+### Day 6:
+08-08-2019 , 16:10 
+
+**Today's Progress:** Making checkin data with leaflet map and Iss code
+
+**Thoughts:** Mapping check in entries on leaflet map using the Weather Here App and the ISS code from the first day
+
+**Link to work:** [Working with data and apis](https://github.com/fernand0aguilar/Working-with-Data-and-APIs)
+
+
+***
