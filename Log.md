@@ -67,3 +67,14 @@
 
 
 ***
+### Day 7:
+09-08-2019 , 12:51 
+
+**Today's Progress:** Deploying Project on Heroku
+
+**Thoughts:** Making the api key secret with dotenv end deploying project on heroku. I want to start evolving this application to use react and also be able to implement the data selfie app to create a more meaningful application. Will focus on doing that today
+
+**Link to work:** [Working with data and apis](https://working-with-data-and-apis.herokuapp.com/)
+
+
+***
