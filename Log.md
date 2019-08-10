@@ -78,3 +78,14 @@
 
 
 ***
+### Day 8:
+10-08-2019 , 14:37 
+
+**Today's Progress:** Starting omnistack week
+
+**Thoughts:** Creating node app to make omnistack week from rocketseat
+
+**Link to work:** [Healme omnistack repo](https://github.com/fernand0aguilar/healme-omnistack)
+
+
+***
