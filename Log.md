@@ -89,3 +89,14 @@
 
 
 ***
+### Day 9:
+11-08-2019 , 18:53 
+
+**Today's Progress:** Setup Working Space
+
+**Thoughts:** No Code Done. But learned more about reinforcement learning and unsupervised learning
+
+**Link to work:** [-](-)
+
+
+***
