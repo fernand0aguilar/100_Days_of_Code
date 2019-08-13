@@ -100,3 +100,25 @@
 
 
 ***
+### Day 10:
+13-08-2019 , 07:42 
+
+**Today's Progress:** Add design assets for Base Apparel coming soon page of healme
+
+**Thoughts:** Day of yesterday, added project structure
+
+**Link to work:** [Coming soon repo](https://github.com/fernand0aguilar/healme-omnistack)
+
+
+***
+### Day 11:
+13-08-2019 , 07:44 
+
+**Today's Progress:** Today i have failed a lot with webpack
+
+**Thoughts:** woke up 5am and started coding, it was a great experience, i am going to repeat it and make it a habit.
+
+**Link to work:** [Healme omnistack](https://github.com/fernand0aguilar/healme-omnistack)
+
+
+***
