@@ -122,3 +122,14 @@
 
 
 ***
+### Day 12:
+14-08-2019 , 13:39 
+
+**Today's Progress:** Was able to add logo on webpage
+
+**Thoughts:** Configuring webpack to import assets, added logo on base apparel webpage, researched about swebok and written english corpse of doc to be sent"
+
+**Link to work:** [Healme Service](https://www.instagram.com/healmeservice/)
+
+
+***
