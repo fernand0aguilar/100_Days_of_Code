@@ -133,3 +133,14 @@
 
 
 ***
+### Day 13:
+15-08-2019 , 19:19 
+
+**Today's Progress:** Created Initial Webpage for Healme app
+
+**Thoughts:** Making components and applying styling, deploying with surge and going to classes. Learning about software engineering and making great progress, realizing that i am the power of creation, simultaneously creating and experiencing my reality amongst others
+
+**Link to work:** [Healme](healme247.com)
+
+
+***
