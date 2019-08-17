@@ -144,3 +144,14 @@
 
 
 ***
+### Day 14:
+16-08-2019 , 23:46 
+
+**Today's Progress:** Changing Scss stylying for a more blueish background color
+
+**Thoughts:** What. A. Day. I am grateful for Guilherme having invited me to go the the chatbots meetup where I watched not only an workshop of amazon talking about chatbots but could be in the presence of one of the biggest names of VoiceUX in Brazil. Went to a meetup later where I was able to learn a lot, listeen to other people's experiences and make a network connection with amazing AMAZING like-minded people. I am grateful for days like this.
+
+**Link to work:** [Commit 5ac51cbb59ef23ed42246741fd3c9fa12cd5df79](https://github.com/fernand0aguilar/healme-omnistack/commit/5ac51cbb59ef23ed42246741fd3c9fa12cd5df79)
+
+
+***
