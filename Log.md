@@ -155,3 +155,14 @@
 
 
 ***
+### Day 15:
+17-08-2019 , 18:01 
+
+**Today's Progress:** Creating repository for skills with alexa. Deep Learning Class. Coding email integration for healme website
+
+**Thoughts:** Very nice to start putting myself in environments where people are making great stuff. Went to the deep learning class today and I'm very excited to work my way trough success. I am grateful for having the opportunity to go to a great university and I am grateful for having amazing people as a support system. I am grateful for being open to meet new people, and I am grateful for watering my soul with what makes me trully happy.
+
+**Link to work:** [Deep Learning UnB](https://github.com/deeplearningunb)
+
+
+***
