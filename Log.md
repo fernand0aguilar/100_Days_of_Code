@@ -166,3 +166,14 @@
 
 
 ***
+### Day 16:
+19-08-2019 , 13:09 
+
+**Today's Progress:** Didn`t coded much today. But at least commited new logo on project healme
+
+**Thoughts:** making progress by learning about gamefication and tests of software on college
+
+**Link to work:** [Logo Healme Round](https://github.com/fernand0aguilar/healme-omnistack/blob/be44183dad993de2c108dcf62bff0ee8b7b9596e/frontend/src/images/logo_healme_round.png)
+
+
+***
