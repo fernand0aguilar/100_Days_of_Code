@@ -177,3 +177,14 @@
 
 
 ***
+### Day 17:
+20-08-2019 , 15:04 
+
+**Today's Progress:** Evolving backend of Alexa Quotes Skill
+
+**Thoughts:** Learned a lot about requirements engineering, coded a little bit on the alexa skills repo, learned something about human computer interactions and making progress on the 100DaysOfCode. Glad to be alive. Grateful for everything.
+
+**Link to work:** [Alexa Skills Repository](https://github.com/fernand0aguilar/alexa-skills)
+
+
+***
