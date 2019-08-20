@@ -11,7 +11,7 @@ with open(".day.dat", 'r') as f:
 
 day = int(dayFile[0])
 
-print("Bumping day " + str(day))
+print("Bumping day " + str(day + 1))
 
 # Store strings for new bump day
 string_day = "### Day " + str(day + 1) + ":\n"
