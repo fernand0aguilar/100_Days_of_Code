@@ -188,3 +188,14 @@
 
 
 ***
+### Day 18:
+21-08-2019 , 21:00 
+
+**Today's Progress:** Trying to connect client with server on quotes api
+
+**Thoughts:** Making small progress. Procrastinated coding in the morningg, but at least I have commited and I will finish this project asap.
+
+**Link to work:** [How To Make create-react-app work with a Node Back-end API](https://www.freecodecamp.org/news/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0/)
+
+
+***
