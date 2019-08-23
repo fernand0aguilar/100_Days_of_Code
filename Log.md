@@ -199,3 +199,14 @@
 
 
 ***
+### Day 19:
+22-08-2019 , 22:20 
+
+**Today's Progress:** Created first commit on fluffy deep learning repo
+
+**Thoughts:** Copying an example of GAN tutorial with pytorch. Coding an example of motion of a butterfly with facial track in processing wich didn't worked. Overall a great day. Grateful for winning tickets to attend the websummit
+
+**Link to work:** [Body Examples With Processing Interactivity & computation](http://cmuems.com/2018/60212f/category/05/05-body/)
+
+
+***
