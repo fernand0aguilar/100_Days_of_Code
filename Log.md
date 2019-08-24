@@ -210,3 +210,14 @@
 
 
 ***
+### Day 20:
+23-08-2019 , 22:24 
+
+**Today's Progress:** Didn't coded much today. I made changes on the how to software engineer reposi
+
+**Thoughts:** Made progress on the Lauch formula by deciding to make a lauch. Made progress on the manifestation part of my reality and decided to take the quantum leap that is required in order to grow from a position of lack to a position of abundance. I am grateful for opportunities as they manifest itself easily to me. I am grateful for allowing syncronistic experiences to take place in my life.
+
+**Link to work:** [How To Software Engineer](https://github.com/fernand0aguilar/how_to_software_engineer)
+
+
+***
