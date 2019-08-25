@@ -221,3 +221,25 @@
 
 
 ***
+### Day 21:
+25-08-2019 , 09:52 
+
+**Today's Progress:** Implemented a linear regression with least squares algorithm on p5.js
+
+**Thoughts:** Class on deep learning on UnB is going to be interesting
+
+**Link to work:** [IntelligenceAndLearning](https://github.com/fernand0aguilar/p5-plus-plus/tree/master/IntelligenceAndLearning)
+
+
+***
+### Day 22:
+25-08-2019 , 09:54 
+
+**Today's Progress:** finally I was able to setup yunohost on raspberry pi after like, 2 months of trial and error. It still isn’t working the dns but fuck it. It’s good enough.
+
+**Thoughts:** Installing firefly on yunohost
+
+**Link to work:** [fraguilar yunohost](https://fraguilar.noho.st)
+
+
+***
