@@ -243,3 +243,14 @@
 
 
 ***
+### Day 23:
+26-08-2019 , 10:48 
+
+**Today's Progress:** Back to Alexa "quotes" skill project. Trying to proxy node server with react client.
+
+**Thoughts:** Failed So Far
+
+**Link to work:** [How to make create react app work with a node backend api](https://www.freecodecamp.org/news/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0/)
+
+
+***
