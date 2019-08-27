@@ -254,3 +254,14 @@
 
 
 ***
+### Day 24:
+27-08-2019 , 10:09 
+
+**Today's Progress:** Making progress on alexa skills repository
+
+**Thoughts:** Was able to connect frontend and backend together
+
+**Link to work:** [Alexa Skills](https://github.com/fernand0aguilar/alexa-skills)
+
+
+***
