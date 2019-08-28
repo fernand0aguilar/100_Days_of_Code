@@ -265,3 +265,14 @@
 
 
 ***
+### Day 25:
+28-08-2019 , 12:29 
+
+**Today's Progress:** Making the quote show up on the client
+
+**Thoughts:** Made progress by implementing the baseline for starting the alexa skill development
+
+**Link to work:** [alexa-skills](https://github.com/fernand0aguilar/alexa-skills)
+
+
+***
