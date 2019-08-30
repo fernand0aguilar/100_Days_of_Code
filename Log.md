@@ -287,3 +287,14 @@
 
 
 ***
+### Day 27:
+30-08-2019 , 11:33 
+
+**Today's Progress:** Uploaded simple lambda code for alexa-standup-meeting. Starting to get interested in bots. Creating a telegram bot for daily standup meetings
+
+**Thoughts:** Also got a new challenge from Ribbon wich I am still thinking if I should do it or not. Let's see. The requirements are quiet simple and I believe it to be easily implemented using the grpc code that I have
+
+**Link to work:** [Daily bot](https://github.com/sapumar/dailybot)
+
+
+***
