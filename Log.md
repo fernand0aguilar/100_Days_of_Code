@@ -276,3 +276,14 @@
 
 
 ***
+### Day 26:
+30-08-2019 , 11:32 
+
+**Today's Progress:** Uploaded boilerplate code "Cake Walk" for Amazon Alexa Skill. Merge old requirements engineering repo into the new one.
+
+**Thoughts:** Great day at collenge and life in general. Im grateful
+
+**Link to work:** [Tweet](https://twitter.com/Fernand0Aguilar/status/1167126016730574849)
+
+
+***
