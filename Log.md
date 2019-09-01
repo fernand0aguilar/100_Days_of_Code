@@ -309,3 +309,14 @@
 
 
 ***
+### Day 29:
+01-09-2019 , 10:11 
+
+**Today's Progress:** Day Off
+
+**Thoughts:** Took the day off to rest and reset.
+
+**Link to work:** [negociar é preciso](sleep)
+
+
+***
