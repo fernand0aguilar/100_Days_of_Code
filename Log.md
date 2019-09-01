@@ -298,3 +298,14 @@
 
 
 ***
+### Day 28:
+31-08-2019 , 20:59 
+
+**Today's Progress:** Uploading telegram daily bot to prediction-bot repository
+
+**Thoughts:** Today I decided to say no to the coding challenge of ribon, I've deleted the repo and started learning the fundamentals of getting rich without needing to sell my hours to another person or company
+
+**Link to work:** [Daily Bot](https://github.com/sapumar/dailybot)
+
+
+***
