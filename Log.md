@@ -320,3 +320,14 @@
 
 
 ***
+### Day 30:
+01-09-2019 , 20:51 
+
+**Today's Progress:** Testing and Gamefication Classes
+
+**Thoughts:** Picking up the coding habit again. Didn't coded today. But watched some lectures and I am slowly improving my life. Caring about the family, caring about the life, taking responsibility and creating solutions for tomorrow
+
+**Link to work:** [Jack Ma and Elon Musk hold debate in Shanghai](https://www.youtube.com/watch?v=f3lUEnMaiAU)
+
+
+***
