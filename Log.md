@@ -331,3 +331,14 @@
 
 
 ***
+### Day 31:
+03-09-2019 , 20:24 
+
+**Today's Progress:** Deploying mkdocs page
+
+**Thoughts:** Thinking of ways to improve the personal projects which are currently on hodl. I need to have a list of projects which I will be working on in order to focus and make them evolve in a steady pace. These projects are, the telegram standup bot, the alexa bot, the trading bot, and the AI therapist chatbot. lots of bots are emerging right? That would be at least in some way or another, profitable. I wish I was able to get a flowing source of income again to be able to focus with security on creating instead of remaining in this lack mentality.
+
+**Link to work:** [Requisitos Twitter](https://requisitos2-2019.github.io/2019.2-Twitter/)
+
+
+***
