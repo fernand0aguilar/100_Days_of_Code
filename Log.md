@@ -342,3 +342,14 @@
 
 
 ***
+### Day 32:
+04-09-2019 , 20:37 
+
+**Today's Progress:** prototyping version zero of quotes app for integration with alexa skill
+
+**Thoughts:** Made progress, learned a lot of things, made progress on tthe personal goals that I had. Trying new things. Doing some gamefication experiments
+
+**Link to work:** [Alexa Skills](https://github.com/fernand0aguilar/alexa-skills)
+
+
+***
