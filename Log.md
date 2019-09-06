@@ -353,3 +353,14 @@
 
 
 ***
+### Day 33:
+05-09-2019 , 22:15 
+
+**Today's Progress:** Installing Personal Management System
+
+**Thoughts:** Coded for less than 10 minutes, but at least I made san step further into the progress. Any progress is valuable, even if it is 1% right?
+
+**Link to work:** [Personal Management System](https://github.com/fernand0aguilar/personal-management-system)
+
+
+***
