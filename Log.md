@@ -364,3 +364,14 @@
 
 
 ***
+### Day 34:
+07-09-2019 , 23:41 
+
+**Today's Progress:** Day off. Not working
+
+**Thoughts:** Well. I read 50% of 1984 if that counts as something productive done.
+
+**Link to work:** [-](-)
+
+
+***
