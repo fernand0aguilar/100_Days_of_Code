@@ -375,3 +375,14 @@
 
 
 ***
+### Day 35:
+08-09-2019 , 23:42 
+
+**Today's Progress:** Studying project interface heuristic analysis.
+
+**Thoughts:** Made progress on the move and set up new place to live
+
+**Link to work:** [-](-)
+
+
+***
