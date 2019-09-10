@@ -386,3 +386,14 @@
 
 
 ***
+### Day 36:
+09-09-2019 , 22:35 
+
+**Today's Progress:** Working on mkdocs page for IHC
+
+**Thoughts:** i'm not interested in coding lately since the last interview that I had for Ribon, i think I got desmotivated from writing code because in the end it's easy to just type a bunch of things that nobody is going to want anyway.
+
+**Link to work:** [codeforces documentation](https://ihc-2019-2.github.io/CodeForces/)
+
+
+***
