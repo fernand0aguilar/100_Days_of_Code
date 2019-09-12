@@ -408,3 +408,14 @@
 
 
 ***
+### Day 38:
+12-09-2019 , 08:11 
+
+**Today's Progress:** Added tic tac toe on p5-plus-plus
+
+**Thoughts:** making a selection of videos to implement. back to the roots of algorithm visualization on p5
+
+**Link to work:** [4.03 - TicTacToe](https://github.com/fernand0aguilar/p5-plus-plus/tree/master/4.projects/03.TicTacToe)
+
+
+***
