@@ -397,3 +397,14 @@
 
 
 ***
+### Day 37:
+11-09-2019 , 23:58 
+
+**Today's Progress:** Building life project
+
+**Thoughts:** Making progress on interpersonal relationships
+
+**Link to work:** [-](-)
+
+
+***
