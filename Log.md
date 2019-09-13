@@ -419,3 +419,14 @@
 
 
 ***
+### Day 39:
+13-09-2019 , 17:51 
+
+**Today's Progress:** Didn't coded. Feel that sometimes I'm falling behind my habit. SHould start getting more commited to it?
+
+**Thoughts:** Choose Life
+
+**Link to work:** [Don't overthink the future](https://twitter.com/1111_media/status/1172351844611428352)
+
+
+***
