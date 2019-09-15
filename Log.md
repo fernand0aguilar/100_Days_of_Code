@@ -441,3 +441,14 @@
 
 
 ***
+### Day 41:
+15-09-2019 , 18:15 
+
+**Today's Progress:** Tackling the gift wrapping challenge
+
+**Thoughts:** In computational geometry, the gift wrapping algorithm is an algorithm for computing the convex hull of a given set of points
+
+**Link to work:** [Coding Challenge #148](https://youtu.be/YNyULRrydVI?list=WL)
+
+
+***
