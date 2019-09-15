@@ -430,3 +430,14 @@
 
 
 ***
+### Day 40:
+14-09-2019 , 22:26 
+
+**Today's Progress:** Installing deep learning tools
+
+**Thoughts:** Started with my first artificial neural network, hacking jupyter with autoscroll, experimenting with activating functions and optimizers
+
+**Link to work:** [Building Ann](https://github.com/fernand0aguilar/fluffy-deep-learning/tree/master/building-ann-master)
+
+
+***
