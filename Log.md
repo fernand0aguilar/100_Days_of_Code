@@ -463,3 +463,14 @@
 
 
 ***
+### Day 43:
+17-09-2019 , 20:06 
+
+**Today's Progress:** Created the snowfall algorithm
+
+**Thoughts:** Implementing an algorithms that simulates the nature of code and the snowfall effect
+
+**Link to work:** [Day 43 - #100DaysOfCode](https://twitter.com/Fernand0Aguilar/status/1174083760704430080)
+
+
+***
