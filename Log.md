@@ -452,3 +452,14 @@
 
 
 ***
+### Day 42:
+16-09-2019 , 22:20 
+
+**Today's Progress:** Implementing PI aproximation with leibniz series
+
+**Thoughts:** Day 42 yay be happy little boy it's your success day
+
+**Link to work:** [Tweet](https://twitter.com/Fernand0Aguilar/status/1173762802814787586)
+
+
+***
