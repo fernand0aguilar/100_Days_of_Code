@@ -474,3 +474,14 @@
 
 
 ***
+### Day 44:
+18-09-2019 , 23:04 
+
+**Today's Progress:** Add processamento de sinais finceiros on deep learning repository
+
+**Thoughts:** Making small progress on coding but actually solving real world problems 
+
+**Link to work:** [Fluffy Deep Learning](https://github.com/fernand0aguilar/fluffy-deep-learning)
+
+
+***
