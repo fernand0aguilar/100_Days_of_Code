@@ -485,3 +485,14 @@
 
 
 ***
+### Day 45:
+19-09-2019 , 23:45 
+
+**Today's Progress:** Adding code for trading bots
+
+**Thoughts:** bots, bitcoin and stuff like that
+
+**Link to work:** [Bitcoin Trading bot](https://github.com/fernand0aguilar/fluffy-deep-learning)
+
+
+***
