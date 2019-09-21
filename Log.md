@@ -496,3 +496,14 @@
 
 
 ***
+### Day 46:
+21-09-2019 , 20:50 
+
+**Today's Progress:** Made progress today by cleaning up some repos and adding structure for next projects
+
+**Thoughts:** Forked a crypto trading bot also
+
+**Link to work:** [freqtrade](https://github.com/fernand0aguilar/freqtrade)
+
+
+***
