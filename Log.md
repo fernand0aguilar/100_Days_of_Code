@@ -507,3 +507,14 @@
 
 
 ***
+### Day 47:
+21-09-2019 , 20:52 
+
+**Today's Progress:** Didn't code today but learned something about persuasion
+
+**Thoughts:** I don't know why I spend so much wasted time on social media
+
+**Link to work:** [wasted](wasted)
+
+
+***
