@@ -518,3 +518,14 @@
 
 
 ***
+### Day 48:
+23-09-2019 , 11:26 
+
+**Today's Progress:** programming my mind for ultra learning
+
+**Thoughts:** getting new project to work on - app for choose life
+
+**Link to work:** [Choose Life](https://www.instagram.com/festivalchooselife/)
+
+
+***
