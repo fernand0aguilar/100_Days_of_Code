@@ -529,3 +529,14 @@
 
 
 ***
+### Day 49:
+23-09-2019 , 23:00 
+
+**Today's Progress:** Learning how to use instabot
+
+**Thoughts:** Using instabot on g2 account for bombing the followers
+
+**Link to work:** [instagrambot](https://github.com/instagrambot/instabot)
+
+
+***
