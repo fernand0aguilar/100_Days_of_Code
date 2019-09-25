@@ -540,3 +540,14 @@
 
 
 ***
+### Day 50:
+25-09-2019 , 11:29 
+
+**Today's Progress:** Making prototype for augmented reality business card
+
+**Thoughts:** Using artoolkit, a-frame and other tools, i am creating a business card that is linked with a logo by setup.
+
+**Link to work:** [cartao-solaris.surge.sh](cartao-solaris.surge.sh)
+
+
+***
