@@ -562,3 +562,14 @@
 
 
 ***
+### Day 52:
+28-09-2019 , 17:16 
+
+**Today's Progress:** Making landing page for g2 paes
+
+**Thoughts:** learning how to make an ukulele tuner with machine learning and ml5.js
+
+**Link to work:** [Livestream codingtrain](https://www.youtube.com/watch?v=1b9-O7pnUcg)
+
+
+***
