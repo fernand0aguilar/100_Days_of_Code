@@ -573,3 +573,14 @@
 
 
 ***
+### Day 53:
+29-09-2019 , 12:09 
+
+**Today's Progress:** Today I made progress by looking into algo trading, mlq5 bots and other kinds of stuff
+
+**Thoughts:** Made the ebook and using canva for design. Not really codee but hey, give me a break It's work regardless
+
+**Link to work:** [Processamento Digital de Sinais Financeiros](https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros)
+
+
+***
