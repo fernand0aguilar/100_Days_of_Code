@@ -584,3 +584,14 @@
 
 
 ***
+### Day 54:
+29-09-2019 , 21:14 
+
+**Today's Progress:** Programming my mind for success, wealth and prosperity
+
+**Thoughts:** Made progress by researching on forex bots, crypto twitter, reading, watching videos, listening to podcasts, what a great day I am grateful[3~
+
+**Link to work:** [Socorro - eu preciso de ajuda](https://pipbolt.io/pt/help)
+
+
+***
