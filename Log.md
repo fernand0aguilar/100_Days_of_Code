@@ -595,3 +595,14 @@
 
 
 ***
+### Day 55:
+30-09-2019 , 21:28 
+
+**Today's Progress:** Creating landing pages for g2paes
+
+**Thoughts:** VERY VERY productive day
+
+**Link to work:** [Download Ebook G2 Paes](https://g2paes.com.br/download-ebook)
+
+
+***
