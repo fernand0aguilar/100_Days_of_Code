@@ -606,3 +606,36 @@
 
 
 ***
+### Day 56:
+01-10-2019 , 14:36 
+
+**Today's Progress:** Installing instabot with docker
+
+**Thoughts:** Trying to make the bot unfollow users for Jean but not really succeding.
+
+**Link to work:** [zzz](zzz)
+
+
+***
+### Day 57:
+02-10-2019 , 14:37 
+
+**Today's Progress:** Made progress by evolving the landing pages for G2
+
+**Thoughts:** Didn't coded much but at least opened the terminal and did some stuff
+
+**Link to work:** [zzz](zzz)
+
+
+***
+### Day 58:
+03-10-2019 , 14:37 
+
+**Today's Progress:** Creating my first notebook and writing poetry
+
+**Thoughts:** a poesia não é parte de mim,
+
+**Link to work:** [eu sou poesia](eu sou poeseiahttps://twitter.com/Fernand0Aguilar/status/1179806611533004800)
+
+
+***
