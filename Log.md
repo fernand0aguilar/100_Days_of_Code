@@ -639,3 +639,14 @@
 
 
 ***
+### Day 59:
+02-10-2019 , 13:20 
+
+**Today's Progress:** Making documentation page for Human Computer Interaction project with mkdocs
+
+**Thoughts:** ihc
+
+**Link to work:** [Codeforces](https://interacao-humano-computador.github.io/2019.2-CodeForces/)
+
+
+***
