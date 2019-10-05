@@ -650,3 +650,14 @@
 
 
 ***
+### Day 60:
+05-10-2019 , 13:21 
+
+**Today's Progress:** Evolving and improving artificial neural network
+
+**Thoughts:** Deep learning class
+
+**Link to work:** [Improving the ANN](https://github.com/fernand0aguilar/fluffy-deep-learning/tree/master/building-ann-master)
+
+
+***
