@@ -661,3 +661,14 @@
 
 
 ***
+### Day 61:
+06-10-2019 , 14:43 
+
+**Today's Progress:** Making first pull request for hacktoberfest
+
+**Thoughts:** HAHAHAHA
+
+**Link to work:** [hacktoberfest](hacktoberfest)
+
+
+***
