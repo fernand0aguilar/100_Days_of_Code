@@ -672,3 +672,14 @@
 
 
 ***
+### Day 62:
+08-10-2019 , 18:18 
+
+**Today's Progress:** Add uNet and BodyPix with ml5
+
+**Thoughts:** watched the coding train livestream and make the implementation of bodypix and uNet as sugested.
+
+**Link to work:** [Ml5 Reference](https://ml5js.org/reference/api-BodyPix/)
+
+
+***
