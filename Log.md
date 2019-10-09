@@ -683,3 +683,14 @@
 
 
 ***
+### Day 63:
+09-10-2019 , 02:37 
+
+**Today's Progress:** Combining waves
+
+**Thoughts:** Implemented the code from Alca made on the coding train livestream
+
+**Link to work:** [combining waves demo](combining-waves.surge.sh)
+
+
+***
