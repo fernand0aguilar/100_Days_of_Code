@@ -705,3 +705,14 @@
 
 
 ***
+### Day 65:
+11-10-2019 , 19:28 
+
+**Today's Progress:** Implementing Maurer Rose
+
+**Thoughts:** Implelementing 6.01 - MaurerRose on p5js
+
+**Link to work:** [video on twitter](https://twitter.com/Fernand0Aguilar/status/1182785573305667584)
+
+
+***
