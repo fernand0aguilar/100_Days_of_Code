@@ -694,3 +694,14 @@
 
 
 ***
+### Day 64:
+11-10-2019 , 19:27 
+
+**Today's Progress:** Making deep learning ann exercise
+
+**Thoughts:** Training tuning and improving ann
+
+**Link to work:** [pull request](https://github.com/deeplearningunb/building-ann/pull/19)
+
+
+***
