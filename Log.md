@@ -716,3 +716,14 @@
 
 
 ***
+### Day 66:
+12-10-2019 , 23:41 
+
+**Today's Progress:** Making progress on IHC project for university
+
+**Thoughts:** Today I woke up, answered a meeting to develop the IHC paroject, and developed a better sense of understanding on human computer interactions
+
+**Link to work:** [Wiki](https://interacao-humano-computador.github.io/2019.2-CodeForces/)
+
+
+***
