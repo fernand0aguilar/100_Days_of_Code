@@ -738,3 +738,14 @@
 
 
 ***
+### Day 68:
+14-10-2019 , 08:29 
+
+**Today's Progress:** Added updates on codeforces documentation
+
+**Thoughts:** i dont know
+
+**Link to work:** [IHC-2019.2-codeforces](https://github.com/Interacao-Humano-Computador/2019.2-CodeForces)
+
+
+***
