@@ -727,3 +727,14 @@
 
 
 ***
+### Day 67:
+13-10-2019 , 22:26 
+
+**Today's Progress:** Making the 4th pull request for hacktoberfest
+
+**Thoughts:** Today I answered the questions for IHC project and developed a little bit of creativity by cooking and posting on instagram
+
+**Link to work:** [Pull request #1 - Add Old Log](https://github.com/fernand0aguilar/100_Days_of_Code/pull/1)
+
+
+***
