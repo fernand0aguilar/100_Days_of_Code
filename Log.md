@@ -749,3 +749,14 @@
 
 
 ***
+### Day 69:
+15-10-2019 , 08:32 
+
+**Today's Progress:** Making slow progress...
+
+**Thoughts:** I don't know. Today I didn`t code but got into writing and published something new.
+
+**Link to work:** [medium blog](medium.com/@fraguilar)
+
+
+***
