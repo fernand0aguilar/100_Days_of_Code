@@ -760,3 +760,14 @@
 
 
 ***
+### Day 70:
+16-10-2019 , 08:33 
+
+**Today's Progress:** Making verival TBL project
+
+**Thoughts:** Testing for maintenability and analisability.
+
+**Link to work:** [-](-)
+
+
+***
