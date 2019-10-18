@@ -771,3 +771,14 @@
 
 
 ***
+### Day 71:
+18-10-2019 , 22:22 
+
+**Today's Progress:** Evolving hyperparameters of maurerrose
+
+**Thoughts:** I don't know. Coded very little, but posted the gif of wheeling on twitter and it blew up. deffinetly most likes in a sigle tweet i've had.
+
+**Link to work:** [Tweet](https://twitter.com/Fernand0Aguilar/status/1184826956837261312)
+
+
+***
