@@ -793,3 +793,14 @@
 
 
 ***
+### Day 73:
+19-10-2019 , 12:22 
+
+**Today's Progress:** Didn't code. zzz
+
+**Thoughts:** i'm getting bored of coding. no project seems to be getting my attention and sometimes i feel this challenge is the only thing preventing me from giving up
+
+**Link to work:** [zzz](zzz)
+
+
+***
