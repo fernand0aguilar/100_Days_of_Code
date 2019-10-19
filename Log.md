@@ -782,3 +782,14 @@
 
 
 ***
+### Day 72:
+18-10-2019 , 22:24 
+
+**Today's Progress:** Making 6.02 and 6.03
+
+**Thoughts:** Today I've implemented sketchrnn, rdp algorithm, and the wheeling code on p5-plus-plus
+
+**Link to work:** [p5-plus-plus](http://github.com/fernand0aguilar/p5-plus-plus/)
+
+
+***
