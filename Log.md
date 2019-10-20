@@ -804,3 +804,14 @@
 
 
 ***
+### Day 74:
+20-10-2019 , 12:23 
+
+**Today's Progress:** Today i made the NFR for requirements engineering
+
+**Thoughts:** Pairing with Erick we created the page and made the diagm
+
+**Link to work:** [Twitter Requisitos](https://github.com/Requisitos-de-Software/2019.2-Twitter)
+
+
+***
