@@ -815,3 +815,14 @@
 
 
 ***
+### Day 75:
+21-10-2019 , 18:04 
+
+**Today's Progress:** Today I have improved the Twitter documentation for requisitos
+
+**Thoughts:** Making progress on the required artefacts for ponto de controle 4
+
+**Link to work:** [Twitter Requisitos 2019.2](https://github.com/Requisitos-de-Software/2019.2-Twitter)
+
+
+***
