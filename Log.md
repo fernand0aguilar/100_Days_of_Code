@@ -826,3 +826,14 @@
 
 
 ***
+### Day 76:
+22-10-2019 , 18:05 
+
+**Today's Progress:** Started project for teste camara dos deputados
+
+**Thoughts:** New test for job position as intern on Senado Federal and Camara dos Deputados
+
+**Link to work:** [created repository](https://github.com/fernand0aguilar/redesigned-invention)
+
+
+***
