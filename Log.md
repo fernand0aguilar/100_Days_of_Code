@@ -837,3 +837,14 @@
 
 
 ***
+### Day 77:
+23-10-2019 , 18:31 
+
+**Today's Progress:** Making tdd on backend with django
+
+**Thoughts:** Making the test for senado federal
+
+**Link to work:** [-](zzz)
+
+
+***
