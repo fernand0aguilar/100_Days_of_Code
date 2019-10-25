@@ -848,3 +848,14 @@
 
 
 ***
+### Day 78:
+25-10-2019 , 06:39 
+
+**Today's Progress:** Pulling an all nighther to solve a coding challenge
+
+**Thoughts:** Backend in Django, frontend in React, charts in D3. Doing the senado/camara dos deputados challenge
+
+**Link to work:** [Data Storytelling repository on github](https://github.com/fernand0aguilar/data-storytelling)
+
+
+***
