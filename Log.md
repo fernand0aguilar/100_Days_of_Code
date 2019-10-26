@@ -859,3 +859,14 @@
 
 
 ***
+### Day 79:
+26-10-2019 , 15:06 
+
+**Today's Progress:** Deep learning class
+
+**Thoughts:** Learning about RNN, lstm, doing some paiting, etc
+
+**Link to work:** [Building RNN](https://github.com/deeplearningunb/building-rnn)
+
+
+***
