@@ -870,3 +870,14 @@
 
 
 ***
+### Day 80:
+27-10-2019 , 20:30 
+
+**Today's Progress:** Add code 6.04 - physics tree simulation
+
+**Thoughts:** Copying code for physics tree simulation and doing some adustment for it
+
+**Link to work:** [Tweet with video](https://twitter.com/Fernand0Aguilar/status/1188599498194509829)
+
+
+***
