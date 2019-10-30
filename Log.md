@@ -881,3 +881,14 @@
 
 
 ***
+### Day 81:
+29-10-2019 , 21:03 
+
+**Today's Progress:** Adding my own spin on the collatz conjecture algorithm 
+
+**Thoughts:** 💧
+
+**Link to work:** [Video](🐟https://twitter.com/Fernand0Aguilar/status/1188867368069615617)
+
+
+***
