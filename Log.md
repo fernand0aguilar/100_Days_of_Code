@@ -892,3 +892,14 @@
 
 
 ***
+### Day 82:
+29-10-2019 , 21:03 
+
+**Today's Progress:** Finished Percurso cognitivo task at ihc repository
+
+**Thoughts:** answering questions relating the cognitive pathway analysis
+
+**Link to work:** [Commit ec206bb3256bffd4e16128cee85c1005d2924579](https://github.com/Interacao-Humano-Computador/2019.2-CodeForces/commit/ec206bb3256bffd4e16128cee85c1005d2924579)
+
+
+***
