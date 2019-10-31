@@ -903,3 +903,14 @@
 
 
 ***
+### Day 83:
+30-10-2019 , 22:42 
+
+**Today's Progress:** Making documentation for IHC project
+
+**Thoughts:** University work
+
+**Link to work:** [Codeforces IHC 2019.2](https://github.com/Interacao-Humano-Computador/2019.2-CodeForces)
+
+
+***
