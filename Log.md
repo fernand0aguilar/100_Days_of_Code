@@ -914,3 +914,14 @@
 
 
 ***
+### Day 84:
+02-11-2019 , 20:37 
+
+**Today's Progress:** Making sure that I have a working pc by erasing the whole hard drive and starting a brand new ubuntu installation
+
+**Thoughts:** zzzzzzzzzz fuck it it was too much trouble installing debian again so I've decided to install ubuntu instead. And fuck windows too. nobody needs that shit
+
+**Link to work:** [yes](fuck everything)
+
+
+***
