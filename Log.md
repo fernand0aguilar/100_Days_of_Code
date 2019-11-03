@@ -925,3 +925,14 @@
 
 
 ***
+### Day 85:
+03-11-2019 , 14:30 
+
+**Today's Progress:** Bumping day 85 - doing what is expected of me
+
+**Thoughts:** working on the cerberus plugin to debug it's initial loading issues
+
+**Link to work:** [gitlab.com/fraguilar](nope . close code)
+
+
+***
