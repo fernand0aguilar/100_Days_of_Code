@@ -936,3 +936,14 @@
 
 
 ***
+### Day 86:
+04-11-2019 , 14:31 
+
+**Today's Progress:** Making the deliverables of requirements engineering
+
+**Thoughts:** also trying again to solve the cerberus plugin installation
+
+**Link to work:** [Whatsapp web](web.whatsapp.com)
+
+
+***
