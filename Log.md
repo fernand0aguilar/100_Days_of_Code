@@ -947,3 +947,14 @@
 
 
 ***
+### Day 87:
+05-11-2019 , 14:33 
+
+**Today's Progress:** Working on requirements enginnering refactoration for ponto de controle 05
+
+**Thoughts:** Woking on refactoring the repository, differentiation of the wants and needs, going after that.
+
+**Link to work:** [operating system](fast.ai)
+
+
+***
