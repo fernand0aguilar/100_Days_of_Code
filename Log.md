@@ -958,3 +958,14 @@
 
 
 ***
+### Day 88:
+06-11-2019 , 01:33 
+
+**Today's Progress:** Working on cerberus
+
+**Thoughts:** Doing the initial development of a component that imports a csv file based on the choices of the user about the initial configuration of the file. This will be a form where I can reuse the code on different places like on messages or group creations, changing only the callback function that is triggered on the event
+
+**Link to work:** [current file looks like this](https://github.com/fernand0aguilar/enigma/blob/fc9e9ed0b5711e26bce4ad4fc7af953efb58a53f/movie-search/src/components/importCSV.js)
+
+
+***
