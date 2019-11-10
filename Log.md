@@ -969,3 +969,14 @@
 
 
 ***
+### Day 89:
+09-11-2019 , 22:07 
+
+**Today's Progress:** Showing mvp of cerberus upload csv to professor
+
+**Thoughts:** Today I went to the deep learning class, learned more about SOMs and programmed a basic upload csv parser for the cerberus project
+
+**Link to work:** [Building SOM](https://github.com/deeplearningunb/building-som)
+
+
+***
