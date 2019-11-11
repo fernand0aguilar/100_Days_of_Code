@@ -980,3 +980,14 @@
 
 
 ***
+### Day 90:
+10-11-2019 , 22:21 
+
+**Today's Progress:** Sunday relaxing
+
+**Thoughts:** Went rock climbing, slept the entire day, but overall i am happy and content with my current life
+
+**Link to work:** [Day 90](https://twitter.com/Fernand0Aguilar/status/1193698409238204419)
+
+
+***
