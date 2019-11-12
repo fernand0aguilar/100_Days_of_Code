@@ -991,3 +991,14 @@
 
 
 ***
+### Day 91:
+11-11-2019 , 23:58 
+
+**Today's Progress:** Didn't code, climb
+
+**Thoughts:** having trouble to stop procrastinating on cerberus project
+
+**Link to work:** [Whatsapp web](https://web.whatsapp.com/)
+
+
+***
