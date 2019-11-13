@@ -1013,3 +1013,14 @@
 
 
 ***
+### Day 93:
+13-11-2019 , 00:16 
+
+**Today's Progress:** Doing my first merge request on cerberus repository
+
+**Thoughts:** finished the tasks of the issue and made my first PR in the repositoryry. Also wrote some commits to requirements engineering repository and made a forward from matrix for tracing requirements from artifacts
+
+**Link to work:** [Twitter Requirements](https://github.com/Requisitos-de-Software/2019.2-Twitter)
+
+
+***
