@@ -1002,3 +1002,14 @@
 
 
 ***
+### Day 92:
+12-11-2019 , 23:59 
+
+**Today's Progress:** Writing better process CSV function
+
+**Thoughts:** cerberus project. making progress agains
+
+**Link to work:** [no linkerino](no link)
+
+
+***
