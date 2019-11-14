@@ -1024,3 +1024,14 @@
 
 
 ***
+### Day 94:
+14-11-2019 , 00:18 
+
+**Today's Progress:** Made the ponto de controle 6 pull request
+
+**Thoughts:** well, Matriz forward-from
+
+**Link to work:** [pull 21](https://github.com/Requisitos-de-Software/2019.2-Twitter/pull/21)
+
+
+***
