@@ -1035,3 +1035,14 @@
 
 
 ***
+### Day 95:
+15-11-2019 , 01:58 
+
+**Today's Progress:** Club day
+
+**Thoughts:** Having fun, swimming, going for waterfalls. no code, big fun
+
+**Link to work:** [nature](nature.com)
+
+
+***
