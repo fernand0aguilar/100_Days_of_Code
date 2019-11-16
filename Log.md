@@ -1046,3 +1046,14 @@
 
 
 ***
+### Day 96:
+16-11-2019 , 01:59 
+
+**Today's Progress:** Doing tests classwork
+
+**Thoughts:** tdd, but not really.
+
+**Link to work:** [Verify and validate](https://github.com/fga-verival/2019-2Grupo2)
+
+
+***
