@@ -1057,3 +1057,14 @@
 
 
 ***
+### Day 97:
+17-11-2019 , 22:21 
+
+**Today's Progress:** Add neural style transfer on fluffy deep learning
+
+**Thoughts:** forked repository and made my own version of nigh sky from van gogh
+
+**Link to work:** [post](https://www.instagram.com/p/B4_DIrYFftD/)
+
+
+***
