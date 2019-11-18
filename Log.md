@@ -1068,3 +1068,14 @@
 
 
 ***
+### Day 98:
+18-11-2019 , 14:28 
+
+**Today's Progress:** Uploading changes on IHC repository
+
+**Thoughts:** Human computer interactions controll point 04
+
+**Link to work:** [Commits in 18-11-2019](https://github.com/Interacao-Humano-Computador/2019.2-CodeForces/commits?author=fernand0aguilar&since=2019-11-18&until=2019-11-19)
+
+
+***
