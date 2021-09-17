@@ -9,3 +9,14 @@
 
 
 ***
+### Day 2:
+16-09-2021 , 23:35 
+
+**Today's Progress:** Begin of development into lightningleads repo
+
+**Thoughts:** i've ported the db file from the template repo to the lightning leads repo, submited 2 commits one fixing the build and another with the file, and am looking towards using this db as a way to track subscribe data from the stripe page
+
+**Link to work:** [Lighningleads repository](https://github.com/Lightning-Leads/lightningleads)
+
+
+***
