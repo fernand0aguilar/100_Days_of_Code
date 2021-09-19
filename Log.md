@@ -20,3 +20,14 @@
 
 
 ***
+### Day 3:
+18-09-2021 , 23:57 
+
+**Today's Progress:** Evolving next-crud integration into realmoguls project
+
+**Thoughts:** DOing the development of the api functions to create and get a new object on the db when user signs up
+
+**Link to work:** [No link](-)
+
+
+***
