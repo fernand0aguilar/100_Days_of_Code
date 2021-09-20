@@ -31,3 +31,14 @@
 
 
 ***
+### Day 4:
+19-09-2021 , 23:53 
+
+**Today's Progress:** Was able to make the stripe success page integrate with the db for updating the user subscribed status
+
+**Thoughts:** TOday i made good coding progress by developing features that were hard, got stuck, asked for help, got tired, kept going. and there is still way much more things that needs doing. Although i've made some bug hunting and developed good features that are going to be useful soon for getting our first revenue
+
+**Link to work:** [Lightningleads pull request #1](https://github.com/Lightning-Leads/lightningleads/pull/1)
+
+
+***
