@@ -42,3 +42,14 @@
 
 
 ***
+### Day 5:
+20-09-2021 , 23:11 
+
+**Today's Progress:** Started refactoring the jobs pi for sending the scrape data to the frontend pipeline
+
+**Thoughts:** Had a job interview, started working on the django challenge that he mentioned, worked on the lightningleads job api for sending the scrape function to the template repo again, did some django development
+
+**Link to work:** [github.com/fernand0aguilar/rate-my-gym](no)
+
+
+***
