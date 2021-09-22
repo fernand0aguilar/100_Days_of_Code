@@ -53,3 +53,14 @@
 
 
 ***
+### Day 6:
+21-09-2021 , 22:50 
+
+**Today's Progress:** Started on the development of the challenge for making a time clock for a subway station
+
+**Thoughts:** System to check-in/check-out of a place. This is going to be an api with 3 initial routes, two post routes to checkin and checkout, and one get route to get the average time between two stations. My initial ideal developing this is to use a user model, a station model, and a timesheet model. The user has the user_id field. The station has the station_id and a single timesheet. when the user swipes in, we store the timestamp and uid on twhen the user swipes out, we store the timestamp and user_id again. When calculating the avarage time between two stations, we check for the most recent checkin of the first station int the req parameter and the most recent swipe out for a specific user in the last station in the req parameter
+
+**Link to work:** [metro-checkin](https://github.com/fernand0aguilar/metro-checkin)
+
+
+***
