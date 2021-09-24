@@ -64,3 +64,14 @@
 
 
 ***
+### Day 7:
+24-09-2021 , 12:45 
+
+**Today's Progress:** Doing the challenge for rec
+
+**Thoughts:** Developing a rest api for calculating the avarage time in between stations
+
+**Link to work:** [Metro-checkin](https://github.com/fernand0aguilar/metro-checkin)
+
+
+***
