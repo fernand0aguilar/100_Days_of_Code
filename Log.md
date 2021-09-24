@@ -75,3 +75,14 @@
 
 
 ***
+### Day 8:
+24-09-2021 , 12:47 
+
+**Today's Progress:** Making the calculate avarage time in between swipes 
+
+**Thoughts:** making the view function for calculating different times in between functions and evolving the models and views
+
+**Link to work:** [metro checkin](https://github.com/fernand0aguilar/metro-checkin)
+
+
+***
