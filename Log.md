@@ -86,3 +86,14 @@
 
 
 ***
+### Day 9:
+26-09-2021 , 22:48 
+
+**Today's Progress:** Today I've opened the lightning leads repo back again and did a meeting to define the next steps in our development
+
+**Thoughts:** I wanna do a list for requirements of a system that is responsible of doing the whole lead generation process automated
+
+**Link to work:** [My tasks](https://coda.io/d/Build-Lean-SaaS_dUVGOMVd_i6/Task-Management_su5xf#My-Tasks_tuGL9)
+
+
+***
