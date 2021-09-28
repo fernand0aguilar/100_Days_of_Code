@@ -97,3 +97,14 @@
 
 
 ***
+### Day 10:
+27-09-2021 , 22:09 
+
+**Today's Progress:** Today i've added some issues to the lightning leads template
+
+**Thoughts:** reviewing the open pr, thinking on the next steps for this project, doing a plan to execute in this week
+
+**Link to work:** [open issues](https://github.com/Lightning-Leads/lightningleads/issues)
+
+
+***
