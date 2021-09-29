@@ -108,3 +108,14 @@
 
 
 ***
+### Day 11:
+28-09-2021 , 22:27 
+
+**Today's Progress:** working on the lightning leads payments backend
+
+**Thoughts:** doing the stripe integration with prisma to save subscribed flag to user 
+
+**Link to work:** []()
+
+
+***
