@@ -119,3 +119,14 @@
 
 
 ***
+### Day 12:
+29-09-2021 , 23:16 
+
+**Today's Progress:** reviewing the open pr's code for the ligning leads repo
+
+**Thoughts:** defining requirements, reviewing code, thinking of solutions, applying the crc model to solve the current blocks that i have in the code. classes, responsibilities, collaborations
+
+**Link to work:** [the art of war](https://github.com/fernand0aguilar/how_to_software_engineer/blob/master/how_to_software_engineer.md#requirements-engineering)
+
+
+***
