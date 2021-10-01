@@ -130,3 +130,14 @@
 
 
 ***
+### Day 13:
+30-09-2021 , 23:20 
+
+**Today's Progress:** studying growth hacking, working on the lightning leads backend, doing meta stuff
+
+**Thoughts:** today i've started by working on the backend for using stripe and subscription data, worked on the biz side of the project, kept going on aligning our intents ang goals with Austin, and made some updates on the obsidian repo. I'm researching and developing a new doc called growth hacking where i'll study the book 101 Ways to Grow your Startup to come up with clever ways to grow this emergent biz idea.
+
+**Link to work:** [101 Ways to Grow your Startup - The Book.pdf](https://github.com/fernand0aguilar/obsidian/blob/main/notes/Carreer/Becoming%20an%20Entrepreuner/documents/101%20Ways%20to%20Grow%20your%20Startup%20-%20The%20Book.pdf)
+
+
+***
