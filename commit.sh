@@ -1,4 +1,4 @@
-RUN ./bump_day.sh
+./bump_day.sh
 DAY=$(cat .day.dat)
 git add .
 git commit -m "Bump day $DAY" 
