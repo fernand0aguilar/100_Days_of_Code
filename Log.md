@@ -141,3 +141,14 @@
 
 
 ***
+### Day 14:
+01-10-2021 , 22:38 
+
+**Today's Progress:** Working on lightning leads and vacentral
+
+**Thoughts:** making a doc to gather requirements and brainstorm solutions for the launch roadmap. We are converging to a good strategy and will be implemented shortly. Not much code happening on my part tho. which is why i'm still not sold about 100 days of code and full time job and founding a company. still, im commited to it and will be doing this even tho theres no single line of code written
+
+**Link to work:** [coda build lean saas](https://coda.io/d/Build-Lean-SaaS_dUVGOMVd_i6/Tik-Tok-Titan_suIKS#_luisO)
+
+
+***
