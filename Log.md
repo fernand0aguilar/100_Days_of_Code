@@ -152,3 +152,14 @@
 
 
 ***
+### Day 15:
+02-10-2021 , 22:31 
+
+**Today's Progress:** Making changes to the vacentral repo frontend
+
+**Thoughts:** solving frontend issues with the mobile navbar, add colored buttons to the role cards, some other minor changes
+
+**Link to work:** [Fix: small changes to mobile navbar and role card buttons](https://github.com/Lightning-Leads/vacentral/commit/3e911331ae414d8f20e1b0c75ee7f4003afb9dd7)
+
+
+***
