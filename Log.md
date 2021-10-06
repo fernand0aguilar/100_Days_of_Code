@@ -163,3 +163,14 @@
 
 
 ***
+### Day 16:
+05-10-2021 , 22:44 
+
+**Today's Progress:** Working on the omni repo
+
+**Thoughts:** searching for python django resourses, implementing some vacentral sanity stuff, doing meetings and mentoring
+
+**Link to work:** [Django tutorial](https://learndjango.com/tutorials/official-django-rest-framework-tutorial-beginners)
+
+
+***
