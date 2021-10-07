@@ -185,3 +185,14 @@
 
 
 ***
+### Day 18:
+07-10-2021 , 17:43 
+
+**Today's Progress:** implementing mailchimp on email form submission, doing code reviews
+
+**Thoughts:** fixing mix pannel, doing code reviews, doing changes to the user-feedback-landing-template, general git stuff
+
+**Link to work:** [Commit](https://github.com/Lightning-Leads/user-feedback-landing-template/commit/00b43fef08615f89db5af3d9f84fec2627ca78f5)
+
+
+***
