@@ -174,3 +174,14 @@
 
 
 ***
+### Day 17:
+07-10-2021 , 00:57 
+
+**Today's Progress:** working on the template backend to integrate google sheets as a db
+
+**Thoughts:** making coding progress. working on this new project that will be fun
+
+**Link to work:** [commit changes](https://github.com/Lightning-Leads/user-feedback-landing-template/compare/master...main?expand=1)
+
+
+***
