@@ -196,3 +196,14 @@
 
 
 ***
+### Day 19:
+08-10-2021 , 22:43 
+
+**Today's Progress:** making an authors page at the vacentral, getting access to my new gigs repo
+
+**Thoughts:** i got a new senior backend job and will be working for this company as a full time contractor
+
+**Link to work:** [issues](https://github.com/Lightning-Leads/lightningleads/issues)
+
+
+***
