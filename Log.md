@@ -207,3 +207,14 @@
 
 
 ***
+### Day 20:
+10-10-2021 , 23:57 
+
+**Today's Progress:** yesterday i did the referrals page
+
+**Thoughts:** made a new form with all the logic
+
+**Link to work:** [6d50b13a10346824b4bd1c07e85a98b18d88cd4c](6d50b13a10346824b4bd1c07e85a98b18d88cd4c)
+
+
+***
