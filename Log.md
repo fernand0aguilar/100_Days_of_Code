@@ -229,3 +229,14 @@
 
 
 ***
+### Day 22:
+12-10-2021 , 14:55 
+
+**Today's Progress:** Making the best tweets initial repo, joining the rec organization
+
+**Thoughts:** Made changes to the vacentral, the undercard backend, and changes to the best-tweets repo
+
+**Link to work:** [github](https://github.com/fernand0aguilar)
+
+
+***
