@@ -218,3 +218,14 @@
 
 
 ***
+### Day 21:
+11-10-2021 , 23:17 
+
+**Today's Progress:** worked a lot today
+
+**Thoughts:** started my full time job, had a very good coding session developing this best tweets app, made changes to the vacentral app
+
+**Link to work:** [vacentral pr](https://github.com/Lightning-Leads/vacentral/pull/7)
+
+
+***
