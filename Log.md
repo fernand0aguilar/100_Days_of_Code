@@ -240,3 +240,14 @@
 
 
 ***
+### Day 23:
+13-10-2021 , 14:57 
+
+**Today's Progress:** working on integrating django in the rec backend, best-tweets, vacentral
+
+**Thoughts:** working on the sendgrid for undercard backend, evolving the best-tweets for the deadline, evolving the vacentral frontend and merging the pr
+
+**Link to work:** [Handle SendGrid Email](https://github.com/Rec-Technologies/undercard-18898/pull/923)
+
+
+***
