@@ -251,3 +251,14 @@
 
 
 ***
+### Day 24:
+14-10-2021 , 15:00 
+
+**Today's Progress:** kept working on the best-tweets to improve dashboard, working in the django backend for integrating sendgrid.
+
+**Thoughts:** Getting used to django again has been tough and i'm having a hard time delivering results to the rec team. I've introduced a bug in production by accident and started with the wrong feet. Now its time for me to step up and do some grinding for being able to deliver more to them and accomplish what they expect of me.
+
+**Link to work:** [fernand0aguilar/best-tweets](https://github.com/fernand0aguilar/best-tweets)
+
+
+***
