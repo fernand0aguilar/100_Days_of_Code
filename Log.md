@@ -262,3 +262,14 @@
 
 
 ***
+### Day 25:
+15-10-2021 , 15:03 
+
+**Today's Progress:** Didn't do much coding today but did some
+
+**Thoughts:** There's an open pr which i need to merge, theres my current dev environment which isn't working still. My django coding skills are shitty and I'm having trouble catching up with my work. Now i've got to step up and up a notch to be able to close this contract. Only by doing stuff with value and delivering with speed that I'll have my work paid. And I know that. So i've hired my friend to mentor me and be able to help me step my skills up. I've done some coding today and removed the update function for the profile viewset. I've started setting my dev environment and will continue tomorrow
+
+**Link to work:** [Handle SendGrid Email pullrequest](https://github.com/Rec-Technologies/undercard-18898/pull/923)
+
+
+***
