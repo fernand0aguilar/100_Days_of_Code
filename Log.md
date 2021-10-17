@@ -273,3 +273,14 @@
 
 
 ***
+### Day 26:
+16-10-2021 , 22:14 
+
+**Today's Progress:** Working on the undercard technologies repo, reviewed one pr
+
+**Thoughts:** was working on the docker file, fixing changes to env file, and docker compose
+
+**Link to work:** [Commits today](https://github.com/Rec-Technologies/undercard-18898/commits?author=fernand0aguilar&since=2021-10-16&until=2021-10-17)
+
+
+***
