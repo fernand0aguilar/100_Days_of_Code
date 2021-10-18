@@ -284,3 +284,14 @@
 
 
 ***
+### Day 27:
+17-10-2021 , 22:18 
+
+**Today's Progress:** reviewing prs on the lightning leads repo
+
+**Thoughts:** adding the basics landing page to the vacentral repo, reviewing the pr
+
+**Link to work:** [add basic learning page #10](https://github.com/Lightning-Leads/vacentral/pull/10)
+
+
+***
