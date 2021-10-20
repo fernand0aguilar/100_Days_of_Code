@@ -295,3 +295,14 @@
 
 
 ***
+### Day 28:
+18-10-2021 , 22:20 
+
+**Today's Progress:** working on the undercard repo,
+
+**Thoughts:** working on the sendgrid stuff, making changes to user viewsets, solving bugs in login endpoint, evolving the create user viewset overall
+
+**Link to work:** [Commits on Oct 18, 2021](https://github.com/Rec-Technologies/undercard-18898/commits/sendgrid-emails)
+
+
+***
