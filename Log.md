@@ -306,3 +306,36 @@
 
 
 ***
+### Day 29:
+19-10-2021 , 22:23 
+
+**Today's Progress:** working on the omni repo
+
+**Thoughts:** made some changes to the omni repo backend adding the twitter scrapper lib, and also worked on the docker for the undercard repo
+
+**Link to work:** [Commits on Oct 19, 2021](https://github.com/Lightning-Leads/omni/commits?author=fernand0aguilar&since=2021-10-19&until=2021-10-20)
+
+
+***
+### Day 30:
+20-10-2021 , 22:24 
+
+**Today's Progress:** Evolving the undercard repo, add github actions flow, ci/cd, etc
+
+**Thoughts:** doing some devops engineering for the undercard repo, making changes on the codebase for tests and unit tests, doing some omni code by recreating the django app
+
+**Link to work:** [Rec-Technologies/undercard-18898 9 commits](https://github.com/Rec-Technologies/undercard-18898/commits?author=fernand0aguilar&since=2021-10-20&until=2021-10-21)
+
+
+***
+### Day 31:
+21-10-2021 , 22:27 
+
+**Today's Progress:** Reviewing the github actions pr, doing work on the backend
+
+**Thoughts:** working on the undercard repo hasnt been so productive as I thought it would be. I've got to step up and start delivering more results because this is not acceptable from my standpoint. I mean, a whole week to setup devops? docker, docker compose, ci/cd, test suite, is it productive or not?
+
+**Link to work:** [https://github.com/Rec-Technologies/undercard-18898](https://github.com/Rec-Technologies/undercard-18898/issues/949)
+
+
+***
