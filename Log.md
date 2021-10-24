@@ -339,3 +339,25 @@
 
 
 ***
+### Day 32:
+22-10-2021 , 22:30 
+
+**Today's Progress:** today i was working on the undercard repo, doing the final integration of docker, making sure that it was all working, and al
+
+**Thoughts:** also improving other aspects of things, planning the test suite for the stripe integration, the cd, and working on the omni repo
+
+**Link to work:** [Commits on Oct 22, 2021](https://github.com/Rec-Technologies/undercard-18898/commits?author=fernand0aguilar&since=2021-10-22&until=2021-10-23)
+
+
+***
+### Day 33:
+23-10-2021 , 22:32 
+
+**Today's Progress:** working solely on the omni repo today
+
+**Thoughts:** did changes to the main logic, the get tickers logic, doing also changes to add the pseudocode for the up algorithm, and evolving the files overall
+
+**Link to work:** [Commits on Oct 23, 2021](https://github.com/Lightning-Leads/omni/commits?author=fernand0aguilar&since=2021-10-23&until=2021-10-24)
+
+
+***
