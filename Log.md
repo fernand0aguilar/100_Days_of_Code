@@ -361,3 +361,14 @@
 
 
 ***
+### Day 34:
+24-10-2021 , 22:38 
+
+**Today's Progress:** working on the omni repo
+
+**Thoughts:** add tickers logic to main.py
+
+**Link to work:** [Commits on Oct 24, 2021](Commits on Oct 24, 2021)
+
+
+***

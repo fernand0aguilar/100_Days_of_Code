@@ -40,3 +40,4 @@ with open(".day.dat", 'w') as f:
 # Save string into log file
 with open("Log.md", 'a') as log:
     log.write(str_new_day)
+
