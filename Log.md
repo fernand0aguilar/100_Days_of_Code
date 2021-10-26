@@ -372,3 +372,14 @@
 
 
 ***
+### Day 35:
+24-10-2021 , 22:39 
+
+**Today's Progress:** changes to mailer in omni bot, evolving cronjob, fix ci
+
+**Thoughts:** Making small incremental changes on the rec but it feels that im not doing enough, i want to start delivering more and better work to them, i want to work smarter and use my time and opportunity to actually grow this company because i've got stakes in it
+
+**Link to work:** [Commits on Oct 26, 2021](https://github.com/Lightning-Leads/omni/commits?author=fernand0aguilar&since=2021-10-25&until=2021-10-26)
+
+
+***
