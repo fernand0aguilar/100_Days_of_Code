@@ -383,3 +383,14 @@
 
 
 ***
+### Day 36:
+26-10-2021 , 22:41 
+
+**Today's Progress:** we are catching up to speed, today i made huge progress
+
+**Thoughts:** i've been able to pretty much finish the omni bot and the rec refactoring devops backend
+
+**Link to work:** [Commits on Oct 26, 2021](https://github.com/Rec-Technologies/undercard-18898/commits?author=fernand0aguilar&since=2021-10-26&until=2021-10-27)
+
+
+***
