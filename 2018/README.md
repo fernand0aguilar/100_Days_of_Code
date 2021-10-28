@@ -1,7 +1,9 @@
 # 100 Days Of ML Code
 This was a challenge to study Machine Learning for 100 Days In A row.
-Status: Accomplished.
-From July 9, 2018 to October 18, 2018
+
+**Status:** Accomplished.
+
+**From** July 9, 2018 **to** October 18, 2018
 
 
 ***

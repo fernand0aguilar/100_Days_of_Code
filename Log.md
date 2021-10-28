@@ -1,729 +1,275 @@
-# 100 Days Of ML Code
-
-***
 ### Day 1:
-03-08-2019 , 13:14 
+15-09-2021 , 21:34 
 
-**Today's Progress:** Creating New Repository. Commiting on a new 100 days challenge
+**Today's Progress:** Begining a new 100 days session.
 
-**Thoughts:** Today i am commiting to start a new journey of development where i will be working on projects for the next 100 days
+**Thoughts:** I've merged the realmogul pr doing a relational db using google spreadsheets and next js
 
-**Link to work:** [100 Days Of Code](https://github.com/fernand0aguilar/100_Days_of_Code)
+**Link to work:** [Realmogul PR #3](https://github.com/Lightning-Leads/realmogul/pull/3)
 
 
 ***
 ### Day 2:
-04-08-2019 , 17:42 
+16-09-2021 , 23:35 
 
-**Today's Progress:** Created Selfie Mood Tracker WebApp
+**Today's Progress:** Begin of development into lightningleads repo
 
-**Thoughts:** Today I have made a nodejs webapp using express to track daily selfies with geolocation
+**Thoughts:** i've ported the db file from the template repo to the lightning leads repo, submited 2 commits one fixing the build and another with the file, and am looking towards using this db as a way to track subscribe data from the stripe page
 
-**Link to work:** [Selfie Geolocation](https://github.com/fernand0aguilar/Working-with-Data-and-APIs/tree/master/Selfie_Geolocation)
+**Link to work:** [Lighningleads repository](https://github.com/Lightning-Leads/lightningleads)
 
 
 ***
 ### Day 3:
-05-08-2019 , 12:56 
+18-09-2021 , 23:57 
 
-**Today's Progress:** Evolving Mood Tracker WebApp
+**Today's Progress:** Evolving next-crud integration into realmoguls project
 
-**Thoughts:** Created the page to show logs on the mood tracker app
+**Thoughts:** DOing the development of the api functions to create and get a new object on the db when user signs up
 
-**Link to work:** [commit 942ac1967b0c71242beb727446797f7309dee8d6](Data-and-APIs/commit/942ac1967b0c71242beb727446797f7309dee8d6)
+**Link to work:** [No link](-)
 
 
 ***
 ### Day 4:
-06-08-2019 , 19:39 
+19-09-2021 , 23:53 
 
-**Today's Progress:** Updated weather daily
+**Today's Progress:** Was able to make the stripe success page integrate with the db for updating the user subscribed status
 
-**Thoughts:** Updated weather daily with darksky api to measure air quality data and also refactoring server with async functions
+**Thoughts:** TOday i made good coding progress by developing features that were hard, got stuck, asked for help, got tired, kept going. and there is still way much more things that needs doing. Although i've made some bug hunting and developed good features that are going to be useful soon for getting our first revenue
 
-**Link to work:** [commit 7ececaeb9ed9c8f7c7af16741fdfc580da9b88d9](https://github.com/fernand0aguilar/Working-with-Data-and-APIs/commit/7ececaeb9ed9c8f7c7af16741fdfc580da9b88d9)
+**Link to work:** [Lightningleads pull request #1](https://github.com/Lightning-Leads/lightningleads/pull/1)
 
 
 ***
 ### Day 5:
-07-08-2019 , 14:27 
+20-09-2021 , 23:11 
 
-**Today's Progress:** Add air quality data on weather here app
+**Today's Progress:** Started refactoring the jobs pi for sending the scrape data to the frontend pipeline
 
-**Thoughts:** Making progress on the working with data and apis course
+**Thoughts:** Had a job interview, started working on the django challenge that he mentioned, worked on the lightningleads job api for sending the scrape function to the template repo again, did some django development
 
-**Link to work:** [Working with data and apis](https://github.com/fernand0aguilar/Working-with-Data-and-APIs)
+**Link to work:** [github.com/fernand0aguilar/rate-my-gym](no)
 
 
 ***
 ### Day 6:
-08-08-2019 , 16:10 
+21-09-2021 , 22:50 
 
-**Today's Progress:** Making checkin data with leaflet map and Iss code
+**Today's Progress:** Started on the development of the challenge for making a time clock for a subway station
 
-**Thoughts:** Mapping check in entries on leaflet map using the Weather Here App and the ISS code from the first day
+**Thoughts:** System to check-in/check-out of a place. This is going to be an api with 3 initial routes, two post routes to checkin and checkout, and one get route to get the average time between two stations. My initial ideal developing this is to use a user model, a station model, and a timesheet model. The user has the user_id field. The station has the station_id and a single timesheet. when the user swipes in, we store the timestamp and uid on twhen the user swipes out, we store the timestamp and user_id again. When calculating the avarage time between two stations, we check for the most recent checkin of the first station int the req parameter and the most recent swipe out for a specific user in the last station in the req parameter
 
-**Link to work:** [Working with data and apis](https://github.com/fernand0aguilar/Working-with-Data-and-APIs)
+**Link to work:** [metro-checkin](https://github.com/fernand0aguilar/metro-checkin)
 
 
 ***
 ### Day 7:
-09-08-2019 , 12:51 
+24-09-2021 , 12:45 
 
-**Today's Progress:** Deploying Project on Heroku
+**Today's Progress:** Doing the challenge for rec
 
-**Thoughts:** Making the api key secret with dotenv end deploying project on heroku. I want to start evolving this application to use react and also be able to implement the data selfie app to create a more meaningful application. Will focus on doing that today
+**Thoughts:** Developing a rest api for calculating the avarage time in between stations
 
-**Link to work:** [Working with data and apis](https://working-with-data-and-apis.herokuapp.com/)
+**Link to work:** [Metro-checkin](https://github.com/fernand0aguilar/metro-checkin)
 
 
 ***
 ### Day 8:
-10-08-2019 , 14:37 
+24-09-2021 , 12:47 
 
-**Today's Progress:** Starting omnistack week
+**Today's Progress:** Making the calculate avarage time in between swipes 
 
-**Thoughts:** Creating node app to make omnistack week from rocketseat
+**Thoughts:** making the view function for calculating different times in between functions and evolving the models and views
 
-**Link to work:** [Healme omnistack repo](https://github.com/fernand0aguilar/healme-omnistack)
+**Link to work:** [metro checkin](https://github.com/fernand0aguilar/metro-checkin)
 
 
 ***
 ### Day 9:
-11-08-2019 , 18:53 
+26-09-2021 , 22:48 
 
-**Today's Progress:** Setup Working Space
+**Today's Progress:** Today I've opened the lightning leads repo back again and did a meeting to define the next steps in our development
 
-**Thoughts:** No Code Done. But learned more about reinforcement learning and unsupervised learning
+**Thoughts:** I wanna do a list for requirements of a system that is responsible of doing the whole lead generation process automated
 
-**Link to work:** [-](-)
+**Link to work:** [My tasks](https://coda.io/d/Build-Lean-SaaS_dUVGOMVd_i6/Task-Management_su5xf#My-Tasks_tuGL9)
 
 
 ***
 ### Day 10:
-13-08-2019 , 07:42 
+27-09-2021 , 22:09 
 
-**Today's Progress:** Add design assets for Base Apparel coming soon page of healme
+**Today's Progress:** Today i've added some issues to the lightning leads template
 
-**Thoughts:** Day of yesterday, added project structure
+**Thoughts:** reviewing the open pr, thinking on the next steps for this project, doing a plan to execute in this week
 
-**Link to work:** [Coming soon repo](https://github.com/fernand0aguilar/healme-omnistack)
+**Link to work:** [open issues](https://github.com/Lightning-Leads/lightningleads/issues)
 
 
 ***
 ### Day 11:
-13-08-2019 , 07:44 
+28-09-2021 , 22:27 
 
-**Today's Progress:** Today i have failed a lot with webpack
+**Today's Progress:** working on the lightning leads payments backend
 
-**Thoughts:** woke up 5am and started coding, it was a great experience, i am going to repeat it and make it a habit.
+**Thoughts:** doing the stripe integration with prisma to save subscribed flag to user 
 
-**Link to work:** [Healme omnistack](https://github.com/fernand0aguilar/healme-omnistack)
+**Link to work:** []()
 
 
 ***
 ### Day 12:
-14-08-2019 , 13:39 
+29-09-2021 , 23:16 
 
-**Today's Progress:** Was able to add logo on webpage
+**Today's Progress:** reviewing the open pr's code for the ligning leads repo
 
-**Thoughts:** Configuring webpack to import assets, added logo on base apparel webpage, researched about swebok and written english corpse of doc to be sent"
+**Thoughts:** defining requirements, reviewing code, thinking of solutions, applying the crc model to solve the current blocks that i have in the code. classes, responsibilities, collaborations
 
-**Link to work:** [Healme Service](https://www.instagram.com/healmeservice/)
+**Link to work:** [the art of war](https://github.com/fernand0aguilar/how_to_software_engineer/blob/master/how_to_software_engineer.md#requirements-engineering)
 
 
 ***
 ### Day 13:
-15-08-2019 , 19:19 
+30-09-2021 , 23:20 
 
-**Today's Progress:** Created Initial Webpage for Healme app
+**Today's Progress:** studying growth hacking, working on the lightning leads backend, doing meta stuff
 
-**Thoughts:** Making components and applying styling, deploying with surge and going to classes. Learning about software engineering and making great progress, realizing that i am the power of creation, simultaneously creating and experiencing my reality amongst others
+**Thoughts:** today i've started by working on the backend for using stripe and subscription data, worked on the biz side of the project, kept going on aligning our intents ang goals with Austin, and made some updates on the obsidian repo. I'm researching and developing a new doc called growth hacking where i'll study the book 101 Ways to Grow your Startup to come up with clever ways to grow this emergent biz idea.
 
-**Link to work:** [Healme](healme247.com)
+**Link to work:** [101 Ways to Grow your Startup - The Book.pdf](https://github.com/fernand0aguilar/obsidian/blob/main/notes/Carreer/Becoming%20an%20Entrepreuner/documents/101%20Ways%20to%20Grow%20your%20Startup%20-%20The%20Book.pdf)
 
 
 ***
 ### Day 14:
-16-08-2019 , 23:46 
+01-10-2021 , 22:38 
 
-**Today's Progress:** Changing Scss stylying for a more blueish background color
+**Today's Progress:** Working on lightning leads and vacentral
 
-**Thoughts:** What. A. Day. I am grateful for Guilherme having invited me to go the the chatbots meetup where I watched not only an workshop of amazon talking about chatbots but could be in the presence of one of the biggest names of VoiceUX in Brazil. Went to a meetup later where I was able to learn a lot, listeen to other people's experiences and make a network connection with amazing AMAZING like-minded people. I am grateful for days like this.
+**Thoughts:** making a doc to gather requirements and brainstorm solutions for the launch roadmap. We are converging to a good strategy and will be implemented shortly. Not much code happening on my part tho. which is why i'm still not sold about 100 days of code and full time job and founding a company. still, im commited to it and will be doing this even tho theres no single line of code written
 
-**Link to work:** [Commit 5ac51cbb59ef23ed42246741fd3c9fa12cd5df79](https://github.com/fernand0aguilar/healme-omnistack/commit/5ac51cbb59ef23ed42246741fd3c9fa12cd5df79)
+**Link to work:** [coda build lean saas](https://coda.io/d/Build-Lean-SaaS_dUVGOMVd_i6/Tik-Tok-Titan_suIKS#_luisO)
 
 
 ***
 ### Day 15:
-17-08-2019 , 18:01 
+02-10-2021 , 22:31 
 
-**Today's Progress:** Creating repository for skills with alexa. Deep Learning Class. Coding email integration for healme website
+**Today's Progress:** Making changes to the vacentral repo frontend
 
-**Thoughts:** Very nice to start putting myself in environments where people are making great stuff. Went to the deep learning class today and I'm very excited to work my way trough success. I am grateful for having the opportunity to go to a great university and I am grateful for having amazing people as a support system. I am grateful for being open to meet new people, and I am grateful for watering my soul with what makes me trully happy.
+**Thoughts:** solving frontend issues with the mobile navbar, add colored buttons to the role cards, some other minor changes
 
-**Link to work:** [Deep Learning UnB](https://github.com/deeplearningunb)
+**Link to work:** [Fix: small changes to mobile navbar and role card buttons](https://github.com/Lightning-Leads/vacentral/commit/3e911331ae414d8f20e1b0c75ee7f4003afb9dd7)
 
 
 ***
 ### Day 16:
-19-08-2019 , 13:09 
+05-10-2021 , 22:44 
 
-**Today's Progress:** Didn`t coded much today. But at least commited new logo on project healme
+**Today's Progress:** Working on the omni repo
 
-**Thoughts:** making progress by learning about gamefication and tests of software on college
+**Thoughts:** searching for python django resourses, implementing some vacentral sanity stuff, doing meetings and mentoring
 
-**Link to work:** [Logo Healme Round](https://github.com/fernand0aguilar/healme-omnistack/blob/be44183dad993de2c108dcf62bff0ee8b7b9596e/frontend/src/images/logo_healme_round.png)
+**Link to work:** [Django tutorial](https://learndjango.com/tutorials/official-django-rest-framework-tutorial-beginners)
 
 
 ***
 ### Day 17:
-20-08-2019 , 15:04 
+07-10-2021 , 00:57 
 
-**Today's Progress:** Evolving backend of Alexa Quotes Skill
+**Today's Progress:** working on the template backend to integrate google sheets as a db
 
-**Thoughts:** Learned a lot about requirements engineering, coded a little bit on the alexa skills repo, learned something about human computer interactions and making progress on the 100DaysOfCode. Glad to be alive. Grateful for everything.
+**Thoughts:** making coding progress. working on this new project that will be fun
 
-**Link to work:** [Alexa Skills Repository](https://github.com/fernand0aguilar/alexa-skills)
+**Link to work:** [commit changes](https://github.com/Lightning-Leads/user-feedback-landing-template/compare/master...main?expand=1)
 
 
 ***
 ### Day 18:
-21-08-2019 , 21:00 
+07-10-2021 , 17:43 
 
-**Today's Progress:** Trying to connect client with server on quotes api
+**Today's Progress:** implementing mailchimp on email form submission, doing code reviews
 
-**Thoughts:** Making small progress. Procrastinated coding in the morningg, but at least I have commited and I will finish this project asap.
+**Thoughts:** fixing mix pannel, doing code reviews, doing changes to the user-feedback-landing-template, general git stuff
 
-**Link to work:** [How To Make create-react-app work with a Node Back-end API](https://www.freecodecamp.org/news/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0/)
+**Link to work:** [Commit](https://github.com/Lightning-Leads/user-feedback-landing-template/commit/00b43fef08615f89db5af3d9f84fec2627ca78f5)
 
 
 ***
 ### Day 19:
-22-08-2019 , 22:20 
+08-10-2021 , 22:43 
 
-**Today's Progress:** Created first commit on fluffy deep learning repo
+**Today's Progress:** making an authors page at the vacentral, getting access to my new gigs repo
 
-**Thoughts:** Copying an example of GAN tutorial with pytorch. Coding an example of motion of a butterfly with facial track in processing wich didn't worked. Overall a great day. Grateful for winning tickets to attend the websummit
+**Thoughts:** i got a new senior backend job and will be working for this company as a full time contractor
 
-**Link to work:** [Body Examples With Processing Interactivity & computation](http://cmuems.com/2018/60212f/category/05/05-body/)
+**Link to work:** [issues](https://github.com/Lightning-Leads/lightningleads/issues)
 
 
 ***
 ### Day 20:
-23-08-2019 , 22:24 
+10-10-2021 , 23:57 
 
-**Today's Progress:** Didn't coded much today. I made changes on the how to software engineer reposi
+**Today's Progress:** yesterday i did the referrals page
 
-**Thoughts:** Made progress on the Lauch formula by deciding to make a lauch. Made progress on the manifestation part of my reality and decided to take the quantum leap that is required in order to grow from a position of lack to a position of abundance. I am grateful for opportunities as they manifest itself easily to me. I am grateful for allowing syncronistic experiences to take place in my life.
+**Thoughts:** made a new form with all the logic
 
-**Link to work:** [How To Software Engineer](https://github.com/fernand0aguilar/how_to_software_engineer)
+**Link to work:** [6d50b13a10346824b4bd1c07e85a98b18d88cd4c](6d50b13a10346824b4bd1c07e85a98b18d88cd4c)
 
 
 ***
 ### Day 21:
-25-08-2019 , 09:52 
+11-10-2021 , 23:17 
 
-**Today's Progress:** Implemented a linear regression with least squares algorithm on p5.js
+**Today's Progress:** worked a lot today
 
-**Thoughts:** Class on deep learning on UnB is going to be interesting
+**Thoughts:** started my full time job, had a very good coding session developing this best tweets app, made changes to the vacentral app
 
-**Link to work:** [IntelligenceAndLearning](https://github.com/fernand0aguilar/p5-plus-plus/tree/master/IntelligenceAndLearning)
+**Link to work:** [vacentral pr](https://github.com/Lightning-Leads/vacentral/pull/7)
 
 
 ***
 ### Day 22:
-25-08-2019 , 09:54 
+12-10-2021 , 14:55 
 
-**Today's Progress:** finally I was able to setup yunohost on raspberry pi after like, 2 months of trial and error. It still isn’t working the dns but fuck it. It’s good enough.
+**Today's Progress:** Making the best tweets initial repo, joining the rec organization
 
-**Thoughts:** Installing firefly on yunohost
+**Thoughts:** Made changes to the vacentral, the undercard backend, and changes to the best-tweets repo
 
-**Link to work:** [fraguilar yunohost](https://fraguilar.noho.st)
+**Link to work:** [github](https://github.com/fernand0aguilar)
 
 
 ***
 ### Day 23:
-26-08-2019 , 10:48 
+13-10-2021 , 14:57 
 
-**Today's Progress:** Back to Alexa "quotes" skill project. Trying to proxy node server with react client.
+**Today's Progress:** working on integrating django in the rec backend, best-tweets, vacentral
 
-**Thoughts:** Failed So Far
+**Thoughts:** working on the sendgrid for undercard backend, evolving the best-tweets for the deadline, evolving the vacentral frontend and merging the pr
 
-**Link to work:** [How to make create react app work with a node backend api](https://www.freecodecamp.org/news/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0/)
+**Link to work:** [Handle SendGrid Email](https://github.com/Rec-Technologies/undercard-18898/pull/923)
 
 
 ***
 ### Day 24:
-27-08-2019 , 10:09 
+14-10-2021 , 15:00 
 
-**Today's Progress:** Making progress on alexa skills repository
+**Today's Progress:** kept working on the best-tweets to improve dashboard, working in the django backend for integrating sendgrid.
 
-**Thoughts:** Was able to connect frontend and backend together
+**Thoughts:** Getting used to django again has been tough and i'm having a hard time delivering results to the rec team. I've introduced a bug in production by accident and started with the wrong feet. Now its time for me to step up and do some grinding for being able to deliver more to them and accomplish what they expect of me.
 
-**Link to work:** [Alexa Skills](https://github.com/fernand0aguilar/alexa-skills)
+**Link to work:** [fernand0aguilar/best-tweets](https://github.com/fernand0aguilar/best-tweets)
 
 
 ***
 ### Day 25:
-28-08-2019 , 12:29 
+15-10-2021 , 15:03 
 
-**Today's Progress:** Making the quote show up on the client
+**Today's Progress:** Didn't do much coding today but did some
 
-**Thoughts:** Made progress by implementing the baseline for starting the alexa skill development
+**Thoughts:** There's an open pr which i need to merge, theres my current dev environment which isn't working still. My django coding skills are shitty and I'm having trouble catching up with my work. Now i've got to step up and up a notch to be able to close this contract. Only by doing stuff with value and delivering with speed that I'll have my work paid. And I know that. So i've hired my friend to mentor me and be able to help me step my skills up. I've done some coding today and removed the update function for the profile viewset. I've started setting my dev environment and will continue tomorrow
 
-**Link to work:** [alexa-skills](https://github.com/fernand0aguilar/alexa-skills)
-
-
-***
-### Day 26:
-30-08-2019 , 11:32 
-
-**Today's Progress:** Uploaded boilerplate code "Cake Walk" for Amazon Alexa Skill. Merge old requirements engineering repo into the new one.
-
-**Thoughts:** Great day at collenge and life in general. Im grateful
-
-**Link to work:** [Tweet](https://twitter.com/Fernand0Aguilar/status/1167126016730574849)
-
-
-***
-### Day 27:
-30-08-2019 , 11:33 
-
-**Today's Progress:** Uploaded simple lambda code for alexa-standup-meeting. Starting to get interested in bots. Creating a telegram bot for daily standup meetings
-
-**Thoughts:** Also got a new challenge from Ribbon wich I am still thinking if I should do it or not. Let's see. The requirements are quiet simple and I believe it to be easily implemented using the grpc code that I have
-
-**Link to work:** [Daily bot](https://github.com/sapumar/dailybot)
-
-
-***
-### Day 28:
-31-08-2019 , 20:59 
-
-**Today's Progress:** Uploading telegram daily bot to prediction-bot repository
-
-**Thoughts:** Today I decided to say no to the coding challenge of ribon, I've deleted the repo and started learning the fundamentals of getting rich without needing to sell my hours to another person or company
-
-**Link to work:** [Daily Bot](https://github.com/sapumar/dailybot)
-
-
-***
-### Day 29:
-01-09-2019 , 10:11 
-
-**Today's Progress:** Day Off
-
-**Thoughts:** Took the day off to rest and reset.
-
-**Link to work:** [negociar é preciso](sleep)
-
-
-***
-### Day 30:
-01-09-2019 , 20:51 
-
-**Today's Progress:** Testing and Gamefication Classes
-
-**Thoughts:** Picking up the coding habit again. Didn't coded today. But watched some lectures and I am slowly improving my life. Caring about the family, caring about the life, taking responsibility and creating solutions for tomorrow
-
-**Link to work:** [Jack Ma and Elon Musk hold debate in Shanghai](https://www.youtube.com/watch?v=f3lUEnMaiAU)
-
-
-***
-### Day 31:
-03-09-2019 , 20:24 
-
-**Today's Progress:** Deploying mkdocs page
-
-**Thoughts:** Thinking of ways to improve the personal projects which are currently on hodl. I need to have a list of projects which I will be working on in order to focus and make them evolve in a steady pace. These projects are, the telegram standup bot, the alexa bot, the trading bot, and the AI therapist chatbot. lots of bots are emerging right? That would be at least in some way or another, profitable. I wish I was able to get a flowing source of income again to be able to focus with security on creating instead of remaining in this lack mentality.
-
-**Link to work:** [Requisitos Twitter](https://requisitos2-2019.github.io/2019.2-Twitter/)
-
-
-***
-### Day 32:
-04-09-2019 , 20:37 
-
-**Today's Progress:** prototyping version zero of quotes app for integration with alexa skill
-
-**Thoughts:** Made progress, learned a lot of things, made progress on tthe personal goals that I had. Trying new things. Doing some gamefication experiments
-
-**Link to work:** [Alexa Skills](https://github.com/fernand0aguilar/alexa-skills)
-
-
-***
-### Day 33:
-05-09-2019 , 22:15 
-
-**Today's Progress:** Installing Personal Management System
-
-**Thoughts:** Coded for less than 10 minutes, but at least I made san step further into the progress. Any progress is valuable, even if it is 1% right?
-
-**Link to work:** [Personal Management System](https://github.com/fernand0aguilar/personal-management-system)
-
-
-***
-### Day 34:
-07-09-2019 , 23:41 
-
-**Today's Progress:** Day off. Not working
-
-**Thoughts:** Well. I read 50% of 1984 if that counts as something productive done.
-
-**Link to work:** [-](-)
-
-
-***
-### Day 35:
-08-09-2019 , 23:42 
-
-**Today's Progress:** Studying project interface heuristic analysis.
-
-**Thoughts:** Made progress on the move and set up new place to live
-
-**Link to work:** [-](-)
-
-
-***
-### Day 36:
-09-09-2019 , 22:35 
-
-**Today's Progress:** Working on mkdocs page for IHC
-
-**Thoughts:** i'm not interested in coding lately since the last interview that I had for Ribon, i think I got desmotivated from writing code because in the end it's easy to just type a bunch of things that nobody is going to want anyway.
-
-**Link to work:** [codeforces documentation](https://ihc-2019-2.github.io/CodeForces/)
-
-
-***
-### Day 37:
-11-09-2019 , 23:58 
-
-**Today's Progress:** Building life project
-
-**Thoughts:** Making progress on interpersonal relationships
-
-**Link to work:** [-](-)
-
-
-***
-### Day 38:
-12-09-2019 , 08:11 
-
-**Today's Progress:** Added tic tac toe on p5-plus-plus
-
-**Thoughts:** making a selection of videos to implement. back to the roots of algorithm visualization on p5
-
-**Link to work:** [4.03 - TicTacToe](https://github.com/fernand0aguilar/p5-plus-plus/tree/master/4.projects/03.TicTacToe)
-
-
-***
-### Day 39:
-13-09-2019 , 17:51 
-
-**Today's Progress:** Didn't coded. Feel that sometimes I'm falling behind my habit. SHould start getting more commited to it?
-
-**Thoughts:** Choose Life
-
-**Link to work:** [Don't overthink the future](https://twitter.com/1111_media/status/1172351844611428352)
-
-
-***
-### Day 40:
-14-09-2019 , 22:26 
-
-**Today's Progress:** Installing deep learning tools
-
-**Thoughts:** Started with my first artificial neural network, hacking jupyter with autoscroll, experimenting with activating functions and optimizers
-
-**Link to work:** [Building Ann](https://github.com/fernand0aguilar/fluffy-deep-learning/tree/master/building-ann-master)
-
-
-***
-### Day 41:
-15-09-2019 , 18:15 
-
-**Today's Progress:** Tackling the gift wrapping challenge
-
-**Thoughts:** In computational geometry, the gift wrapping algorithm is an algorithm for computing the convex hull of a given set of points
-
-**Link to work:** [Coding Challenge #148](https://youtu.be/YNyULRrydVI?list=WL)
-
-
-***
-### Day 42:
-16-09-2019 , 22:20 
-
-**Today's Progress:** Implementing PI aproximation with leibniz series
-
-**Thoughts:** Day 42 yay be happy little boy it's your success day
-
-**Link to work:** [Tweet](https://twitter.com/Fernand0Aguilar/status/1173762802814787586)
-
-
-***
-### Day 43:
-17-09-2019 , 20:06 
-
-**Today's Progress:** Created the snowfall algorithm
-
-**Thoughts:** Implementing an algorithms that simulates the nature of code and the snowfall effect
-
-**Link to work:** [Day 43 - #100DaysOfCode](https://twitter.com/Fernand0Aguilar/status/1174083760704430080)
-
-
-***
-### Day 44:
-18-09-2019 , 23:04 
-
-**Today's Progress:** Add processamento de sinais finceiros on deep learning repository
-
-**Thoughts:** Making small progress on coding but actually solving real world problems 
-
-**Link to work:** [Fluffy Deep Learning](https://github.com/fernand0aguilar/fluffy-deep-learning)
-
-
-***
-### Day 45:
-19-09-2019 , 23:45 
-
-**Today's Progress:** Adding code for trading bots
-
-**Thoughts:** bots, bitcoin and stuff like that
-
-**Link to work:** [Bitcoin Trading bot](https://github.com/fernand0aguilar/fluffy-deep-learning)
-
-
-***
-### Day 46:
-21-09-2019 , 20:50 
-
-**Today's Progress:** Made progress today by cleaning up some repos and adding structure for next projects
-
-**Thoughts:** Forked a crypto trading bot also
-
-**Link to work:** [freqtrade](https://github.com/fernand0aguilar/freqtrade)
-
-
-***
-### Day 47:
-21-09-2019 , 20:52 
-
-**Today's Progress:** Didn't code today but learned something about persuasion
-
-**Thoughts:** I don't know why I spend so much wasted time on social media
-
-**Link to work:** [wasted](wasted)
-
-
-***
-### Day 48:
-23-09-2019 , 11:26 
-
-**Today's Progress:** programming my mind for ultra learning
-
-**Thoughts:** getting new project to work on - app for choose life
-
-**Link to work:** [Choose Life](https://www.instagram.com/festivalchooselife/)
-
-
-***
-### Day 49:
-23-09-2019 , 23:00 
-
-**Today's Progress:** Learning how to use instabot
-
-**Thoughts:** Using instabot on g2 account for bombing the followers
-
-**Link to work:** [instagrambot](https://github.com/instagrambot/instabot)
-
-
-***
-### Day 50:
-25-09-2019 , 11:29 
-
-**Today's Progress:** Making prototype for augmented reality business card
-
-**Thoughts:** Using artoolkit, a-frame and other tools, i am creating a business card that is linked with a logo by setup.
-
-**Link to work:** [cartao-solaris.surge.sh](cartao-solaris.surge.sh)
-
-
-***
-### Day 51:
-26-09-2019 , 12:33 
-
-**Today's Progress:** In celebration of the day 51, posting an alien game where we are the space invaders trying to destroy the player... 
-
-**Thoughts:** Steal like an artist
-
-**Link to work:** [I am the space invader](http://iam-the-space-invader.surge.sh)
-
-
-***
-### Day 52:
-28-09-2019 , 17:16 
-
-**Today's Progress:** Making landing page for g2 paes
-
-**Thoughts:** learning how to make an ukulele tuner with machine learning and ml5.js
-
-**Link to work:** [Livestream codingtrain](https://www.youtube.com/watch?v=1b9-O7pnUcg)
-
-
-***
-### Day 53:
-29-09-2019 , 12:09 
-
-**Today's Progress:** Today I made progress by looking into algo trading, mlq5 bots and other kinds of stuff
-
-**Thoughts:** Made the ebook and using canva for design. Not really codee but hey, give me a break It's work regardless
-
-**Link to work:** [Processamento Digital de Sinais Financeiros](https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros)
-
-
-***
-### Day 54:
-29-09-2019 , 21:14 
-
-**Today's Progress:** Programming my mind for success, wealth and prosperity
-
-**Thoughts:** Made progress by researching on forex bots, crypto twitter, reading, watching videos, listening to podcasts, what a great day I am grateful[3~
-
-**Link to work:** [Socorro - eu preciso de ajuda](https://pipbolt.io/pt/help)
-
-
-***
-### Day 55:
-30-09-2019 , 21:28 
-
-**Today's Progress:** Creating landing pages for g2paes
-
-**Thoughts:** VERY VERY productive day
-
-**Link to work:** [Download Ebook G2 Paes](https://g2paes.com.br/download-ebook)
-
-
-***
-### Day 56:
-01-10-2019 , 14:36 
-
-**Today's Progress:** Installing instabot with docker
-
-**Thoughts:** Trying to make the bot unfollow users for Jean but not really succeding.
-
-**Link to work:** [zzz](zzz)
-
-
-***
-### Day 57:
-02-10-2019 , 14:37 
-
-**Today's Progress:** Made progress by evolving the landing pages for G2
-
-**Thoughts:** Didn't coded much but at least opened the terminal and did some stuff
-
-**Link to work:** [zzz](zzz)
-
-
-***
-### Day 58:
-03-10-2019 , 14:37 
-
-**Today's Progress:** Creating my first notebook and writing poetry
-
-**Thoughts:** a poesia não é parte de mim,
-
-**Link to work:** [eu sou poesia](eu sou poeseiahttps://twitter.com/Fernand0Aguilar/status/1179806611533004800)
-
-
-***
-### Day 59:
-02-10-2019 , 13:20 
-
-**Today's Progress:** Making documentation page for Human Computer Interaction project with mkdocs
-
-**Thoughts:** ihc
-
-**Link to work:** [Codeforces](https://interacao-humano-computador.github.io/2019.2-CodeForces/)
-
-
-***
-### Day 60:
-05-10-2019 , 13:21 
-
-**Today's Progress:** Evolving and improving artificial neural network
-
-**Thoughts:** Deep learning class
-
-**Link to work:** [Improving the ANN](https://github.com/fernand0aguilar/fluffy-deep-learning/tree/master/building-ann-master)
-
-
-***
-### Day 61:
-06-10-2019 , 14:43 
-
-**Today's Progress:** Making first pull request for hacktoberfest
-
-**Thoughts:** HAHAHAHA
-
-**Link to work:** [hacktoberfest](hacktoberfest)
-
-
-***
-### Day 62:
-08-10-2019 , 18:18 
-
-**Today's Progress:** Add uNet and BodyPix with ml5
-
-**Thoughts:** watched the coding train livestream and make the implementation of bodypix and uNet as sugested.
-
-**Link to work:** [Ml5 Reference](https://ml5js.org/reference/api-BodyPix/)
-
-
-***
-### Day 63:
-09-10-2019 , 02:37 
-
-**Today's Progress:** Combining waves
-
-**Thoughts:** Implemented the code from Alca made on the coding train livestream
-
-**Link to work:** [combining waves demo](combining-waves.surge.sh)
-
-
-***
-### Day 64:
-11-10-2019 , 19:27 
-
-**Today's Progress:** Making deep learning ann exercise
-
-**Thoughts:** Training tuning and improving ann
-
-**Link to work:** [pull request](https://github.com/deeplearningunb/building-ann/pull/19)
-
-
-***
-### Day 65:
-11-10-2019 , 19:28 
-
-**Today's Progress:** Implementing Maurer Rose
-
-**Thoughts:** Implelementing 6.01 - MaurerRose on p5js
-
-**Link to work:** [video on twitter](https://twitter.com/Fernand0Aguilar/status/1182785573305667584)
-
-
-***
-### Day 66:
-12-10-2019 , 23:41 
-
-**Today's Progress:** Making progress on IHC project for university
-
-**Thoughts:** Today I woke up, answered a meeting to develop the IHC paroject, and developed a better sense of understanding on human computer interactions
-
-**Link to work:** [Wiki](https://interacao-humano-computador.github.io/2019.2-CodeForces/)
+**Link to work:** [Handle SendGrid Email pullrequest](https://github.com/Rec-Technologies/undercard-18898/pull/923)
 
 
 ***
