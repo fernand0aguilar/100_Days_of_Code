@@ -273,3 +273,135 @@
 
 
 ***
+### Day 26:
+16-10-2021 , 22:14 
+
+**Today's Progress:** Working on the undercard technologies repo, reviewed one pr
+
+**Thoughts:** was working on the docker file, fixing changes to env file, and docker compose
+
+**Link to work:** [Commits today](https://github.com/Rec-Technologies/undercard-18898/commits?author=fernand0aguilar&since=2021-10-16&until=2021-10-17)
+
+
+***
+### Day 27:
+17-10-2021 , 22:18 
+
+**Today's Progress:** reviewing prs on the lightning leads repo
+
+**Thoughts:** adding the basics landing page to the vacentral repo, reviewing the pr
+
+**Link to work:** [add basic learning page #10](https://github.com/Lightning-Leads/vacentral/pull/10)
+
+
+***
+### Day 28:
+18-10-2021 , 22:20 
+
+**Today's Progress:** working on the undercard repo,
+
+**Thoughts:** working on the sendgrid stuff, making changes to user viewsets, solving bugs in login endpoint, evolving the create user viewset overall
+
+**Link to work:** [Commits on Oct 18, 2021](https://github.com/Rec-Technologies/undercard-18898/commits/sendgrid-emails)
+
+
+***
+### Day 29:
+19-10-2021 , 22:23 
+
+**Today's Progress:** working on the omni repo
+
+**Thoughts:** made some changes to the omni repo backend adding the twitter scrapper lib, and also worked on the docker for the undercard repo
+
+**Link to work:** [Commits on Oct 19, 2021](https://github.com/Lightning-Leads/omni/commits?author=fernand0aguilar&since=2021-10-19&until=2021-10-20)
+
+
+***
+### Day 30:
+20-10-2021 , 22:24 
+
+**Today's Progress:** Evolving the undercard repo, add github actions flow, ci/cd, etc
+
+**Thoughts:** doing some devops engineering for the undercard repo, making changes on the codebase for tests and unit tests, doing some omni code by recreating the django app
+
+**Link to work:** [Rec-Technologies/undercard-18898 9 commits](https://github.com/Rec-Technologies/undercard-18898/commits?author=fernand0aguilar&since=2021-10-20&until=2021-10-21)
+
+
+***
+### Day 31:
+21-10-2021 , 22:27 
+
+**Today's Progress:** Reviewing the github actions pr, doing work on the backend
+
+**Thoughts:** working on the undercard repo hasnt been so productive as I thought it would be. I've got to step up and start delivering more results because this is not acceptable from my standpoint. I mean, a whole week to setup devops? docker, docker compose, ci/cd, test suite, is it productive or not?
+
+**Link to work:** [https://github.com/Rec-Technologies/undercard-18898](https://github.com/Rec-Technologies/undercard-18898/issues/949)
+
+
+***
+### Day 32:
+22-10-2021 , 22:30 
+
+**Today's Progress:** today i was working on the undercard repo, doing the final integration of docker, making sure that it was all working, and al
+
+**Thoughts:** also improving other aspects of things, planning the test suite for the stripe integration, the cd, and working on the omni repo
+
+**Link to work:** [Commits on Oct 22, 2021](https://github.com/Rec-Technologies/undercard-18898/commits?author=fernand0aguilar&since=2021-10-22&until=2021-10-23)
+
+
+***
+### Day 33:
+23-10-2021 , 22:32 
+
+**Today's Progress:** working solely on the omni repo today
+
+**Thoughts:** did changes to the main logic, the get tickers logic, doing also changes to add the pseudocode for the up algorithm, and evolving the files overall
+
+**Link to work:** [Commits on Oct 23, 2021](https://github.com/Lightning-Leads/omni/commits?author=fernand0aguilar&since=2021-10-23&until=2021-10-24)
+
+
+***
+### Day 34:
+24-10-2021 , 22:38 
+
+**Today's Progress:** working on the omni repo
+
+**Thoughts:** add tickers logic to main.py
+
+**Link to work:** [Commits on Oct 24, 2021](Commits on Oct 24, 2021)
+
+
+***
+### Day 35:
+24-10-2021 , 22:39 
+
+**Today's Progress:** changes to mailer in omni bot, evolving cronjob, fix ci
+
+**Thoughts:** Making small incremental changes on the rec but it feels that im not doing enough, i want to start delivering more and better work to them, i want to work smarter and use my time and opportunity to actually grow this company because i've got stakes in it
+
+**Link to work:** [Commits on Oct 26, 2021](https://github.com/Lightning-Leads/omni/commits?author=fernand0aguilar&since=2021-10-25&until=2021-10-26)
+
+
+***
+### Day 36:
+26-10-2021 , 22:41 
+
+**Today's Progress:** we are catching up to speed, today i made huge progress
+
+**Thoughts:** i've been able to pretty much finish the omni bot and the rec refactoring devops backend
+
+**Link to work:** [Commits on Oct 26, 2021](https://github.com/Rec-Technologies/undercard-18898/commits?author=fernand0aguilar&since=2021-10-26&until=2021-10-27)
+
+
+***
+### Day 37:
+27-10-2021 , 22:48 
+
+**Today's Progress:** TOday I made a lot of good stuff. im finally able to code for long periods of time
+
+**Thoughts:** I've made some improvements on the test suite, doing a whole integration test of the stripe relationships on the backend, saving an user, saving a trainer class, singning an user to a trainer class, creating a payment intent, doing pretty much all the logic... Also i've finished a production ready version of the otc trends and created a gumroad product. anyways. good fucking day.
+
+**Link to work:** [Otc trends](https://buildleansaas.gumroad.com/l/otc_trends)
+
+
+***
