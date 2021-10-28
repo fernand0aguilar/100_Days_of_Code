@@ -394,3 +394,14 @@
 
 
 ***
+### Day 37:
+27-10-2021 , 22:48 
+
+**Today's Progress:** TOday I made a lot of good stuff. im finally able to code for long periods of time
+
+**Thoughts:** I've made some improvements on the test suite, doing a whole integration test of the stripe relationships on the backend, saving an user, saving a trainer class, singning an user to a trainer class, creating a payment intent, doing pretty much all the logic... Also i've finished a production ready version of the otc trends and created a gumroad product. anyways. good fucking day.
+
+**Link to work:** [Otc trends](https://buildleansaas.gumroad.com/l/otc_trends)
+
+
+***
