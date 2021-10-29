@@ -405,3 +405,14 @@
 
 
 ***
+### Day 38:
+28-10-2021 , 21:38 
+
+**Today's Progress:** finished the integrations tests at the backend in undercard, fixed the omni repo
+
+**Thoughts:** i came back tomy debian environment because the mac was getting too cluttered, today ive done the test suite for stripe webhooks, and was able to get a lot done in the omni repo regarding stuff that i've had done and got forgotten. 
+
+**Link to work:** [Commit hash](https://github.com/Lightning-Leads/omni/commit/b1251a63492c51aeee191a1087b3245463981a11)
+
+
+***
